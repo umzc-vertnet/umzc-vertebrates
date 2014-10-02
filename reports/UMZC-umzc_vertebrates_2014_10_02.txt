@@ -1,0 +1,194 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 758
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: France ; Times: 2
+	Country: Germany ; Times: 3
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 6
+	Date: 2014-09-02 ; Times: 3
+	Date: 2014-09-03 ; Times: 5
+	Date: 2014-09-05 ; Times: 12
+	Date: 2014-09-06 ; Times: 8
+	Date: 2014-09-08 ; Times: 1
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-10 ; Times: 1
+	Date: 2014-09-12 ; Times: 13
+	Date: 2014-09-13 ; Times: 4
+	Date: 2014-09-14 ; Times: 2
+	Date: 2014-09-15 ; Times: 5
+	Date: 2014-09-16 ; Times: 2
+	Date: 2014-09-17 ; Times: 3
+	Date: 2014-09-19 ; Times: 3
+	Date: 2014-09-20 ; Times: 2
+	Date: 2014-09-22 ; Times: 3
+	Date: 2014-09-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 4
+	Query: "Balaenoptera musculus type:specimen" ; Times: 1
+	Query: "Syrrhaptes tissue:1" ; Times: 1
+	Query: "treron australis type:specimen tissue:1" ; Times: 1
+	Query: "(Sotalia)" ; Times: 1
+	Query: "(coendou OR sphiggurus OR chaetomys)" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Chlamyphorus" ; Times: 1
+	Query: "Batis tissue:1" ; Times: 1
+	Query: "skin (coendou OR sphiggurus OR chaetomys)" ; Times: 1
+	Query: "amphiuma skull" ; Times: 2
+	Query: "Lanius type:specimen tissue:1" ; Times: 1
+	Query: "Treron type:specimen tissue:1" ; Times: 1
+	Query: "recordedby:Longchamps" ; Times: 1
+	Query: "JACANIDAE tissue:1" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "Coracias tissue:1" ; Times: 2
+	Query: "Pteroclidae type:specimen" ; Times: 4
+	Query: "Pteroclidae" ; Times: 1
+	Query: ""great auk"" ; Times: 1
+	Query: "felis concolor concolor" ; Times: 1
+	Query: "chlamyphorus" ; Times: 1
+	Query: "Pterocles tissue:1" ; Times: 2
+	Query: "Pseudonestor xanthophrys" ; Times: 2
+	Query: "caenolestes" ; Times: 2
+	Query: "turdoides affinis" ; Times: 1
+	Query: "sphenodon (skeleton)" ; Times: 1
+	Query: "loxodonta skull" ; Times: 2
+	Query: "Pterocles alchata type:specimen" ; Times: 2
+	Query: "bipalium" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Mellisuga minima" ; Times: 2
+	Query: "lonchura cantans" ; Times: 3
+	Query: "Merops type:specimen tissue:1" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 7
+	Query: "Pteropus melanopogon" ; Times: 1
+	Query: "Rhinosciurus" ; Times: 1
+	Query: "Pavo muticus" ; Times: 1
+	Query: "anatinus" ; Times: 2
+	Query: "canis lupus france" ; Times: 1
+	Query: "Alouatta" ; Times: 2
+	Query: "great auk" ; Times: 1
+	Query: "Cebus libidinosus" ; Times: 1
+	Query: "Ariolimax columbianus" ; Times: 1
+	Query: "platyhelminthes" ; Times: 1
+	Query: "pteropus melanopogon" ; Times: 3
+	Query: "Varanus niloticus (Skeleton)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 164 download events in this period)
+Total number of records downloaded: 948 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 816
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Cyprus ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 22
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 2
+	Date: 2014-09-02 ; Times: 2
+	Date: 2014-09-03 ; Times: 3
+	Date: 2014-09-04 ; Times: 2
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-08 ; Times: 1
+	Date: 2014-09-10 ; Times: 1
+	Date: 2014-09-11 ; Times: 2
+	Date: 2014-09-12 ; Times: 5
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-14 ; Times: 1
+	Date: 2014-09-15 ; Times: 5
+	Date: 2014-09-16 ; Times: 1
+	Date: 2014-09-17 ; Times: 1
+	Date: 2014-09-18 ; Times: 1
+	Date: 2014-09-19 ; Times: 4
+	Date: 2014-09-20 ; Times: 6
+	Date: 2014-09-22 ; Times: 4
+	Date: 2014-09-23 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "PreservedSpecimen genus:zoothera" ; Times: 1
+	Query: "mammalia AND Alaska" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "nasua" ; Times: 1
+	Query: "testudines (bone OR skeleton OR shell OR skull)" ; Times: 1
+	Query: "Thamnophilus" ; Times: 1
+	Query: "chiroptera country:"brazil"" ; Times: 1
+	Query: "erethizontidae" ; Times: 1
+	Query: "Gavia immer type:specimen" ; Times: 1
+	Query: "Falco peregrinus anatum country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "buteo jamaicensis borealis" ; Times: 1
+	Query: "tachyglossidae; skull" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "NASUA" ; Times: 1
+	Query: "Mammalia country:"Venezuela"" ; Times: 1
+	Query: "Andrias" ; Times: 3
+	Query: "mammalia AND Oregon" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "neotoma cinerea" ; Times: 1
+	Query: "caenolestes" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "Falco peregrinus country:"united states" year >= 1830 year <= 1940" ; Times: 1
+	Query: "Buteo jamaicensis borealis type:specimen country:"United States"" ; Times: 1
+	Query: "sorex" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "falco peregrinus type:specimen country:"United States" year >= 1800 year <= 1940" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2014" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "mammalia AND California" ; Times: 1
+	Query: "catharus fuscescens" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "peromyscus" ; Times: 2
+	Query: "Nasua nasua" ; Times: 1
+	Query: "aphelocoma" ; Times: 1
+	Query: "callithrix" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 708
+Total number of records retrieved from searches: 4657
+Number of download events that retrieved data from the resource: 220
+Total number of records downloaded: 12491
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 708
+Total number of records retrieved from searches: 4657
+Number of download events that retrieved data from the resource: 220
+Total number of records downloaded: 12491
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
