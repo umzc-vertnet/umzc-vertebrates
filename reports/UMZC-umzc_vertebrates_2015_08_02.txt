@@ -1,0 +1,409 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 342
+Number of records retrieved in searches: 1704
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 79
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 3
+	Country: Germany ; Times: 4
+	Country: India ; Times: 12
+	Country: Italy ; Times: 3
+	Country: Jamaica ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 5
+	Country: Peru ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Switzerland ; Times: 7
+	Country: United Kingdom ; Times: 12
+	Country: United States ; Times: 195
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 12
+	Date: 2015-07-02 ; Times: 10
+	Date: 2015-07-03 ; Times: 8
+	Date: 2015-07-04 ; Times: 9
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-06 ; Times: 5
+	Date: 2015-07-07 ; Times: 19
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 4
+	Date: 2015-07-11 ; Times: 2
+	Date: 2015-07-12 ; Times: 7
+	Date: 2015-07-14 ; Times: 7
+	Date: 2015-07-15 ; Times: 5
+	Date: 2015-07-16 ; Times: 15
+	Date: 2015-07-17 ; Times: 7
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-19 ; Times: 3
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 11
+	Date: 2015-07-22 ; Times: 16
+	Date: 2015-07-23 ; Times: 13
+	Date: 2015-07-24 ; Times: 7
+	Date: 2015-07-25 ; Times: 30
+	Date: 2015-07-26 ; Times: 14
+	Date: 2015-07-27 ; Times: 12
+	Date: 2015-07-28 ; Times: 9
+	Date: 2015-07-29 ; Times: 51
+	Date: 2015-07-30 ; Times: 30
+	Date: 2015-07-31 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Spizastur" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "dinopium tissue:1" ; Times: 1
+	Query: ""vireo osburni" country:"Jamaica" year <= 2015" ; Times: 1
+	Query: "skeleton Branta Sandvicensis AND (NOT incomplete) AND complete" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "Megapodius pritchardii type:specimen" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNHM NOT CUMV)" ; Times: 2
+	Query: "Mimus gundlachii" ; Times: 1
+	Query: "specificepithet:notabilis genus:Anisognathus" ; Times: 4
+	Query: "chrysocolaptes festivus" ; Times: 2
+	Query: "genus:Myrmecobius" ; Times: 1
+	Query: "turdoides malcolmi" ; Times: 3
+	Query: "Vireonidae Vireo osburni" ; Times: 3
+	Query: "specificepithet:cinerea genus:Poospiza" ; Times: 1
+	Query: "Priodontes" ; Times: 1
+	Query: "Pilherodius pileatus type:specimen" ; Times: 1
+	Query: "Nesospingus speculiferus" ; Times: 1
+	Query: "Apus pallidus" ; Times: 1
+	Query: "Anisognathus notabilis" ; Times: 2
+	Query: ""cygnus buccinator" year <= 1892" ; Times: 1
+	Query: "lobodon" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "specificepithet:typhlops genus:Notoryctes" ; Times: 2
+	Query: "sterna dougallii" ; Times: 4
+	Query: "genus:Crinifer tissue:1" ; Times: 1
+	Query: "leptotila wellsi" ; Times: 4
+	Query: "Trionyx muticus" ; Times: 3
+	Query: "dermoptera type:specimen (skeleton)" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 2
+	Query: "harpactes fasciatus type:specimen" ; Times: 1
+	Query: "pinguinus" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 8
+	Query: "Dryocopus tissue:1" ; Times: 1
+	Query: "skeleton Branta Sandvicensis" ; Times: 1
+	Query: "eurostopodus macrotis" ; Times: 1
+	Query: "sporophila americana" ; Times: 11
+	Query: "multituberculate" ; Times: 2
+	Query: "Calyptura" ; Times: 1
+	Query: "specificepithet:cyanoventris genus:Tangara" ; Times: 5
+	Query: "Ninox superciliaris" ; Times: 3
+	Query: "fulvipes" ; Times: 1
+	Query: "genus:orycteropus" ; Times: 1
+	Query: "Mesitornithidae" ; Times: 1
+	Query: "Momotus country:"Panama"" ; Times: 2
+	Query: "62750" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 2
+	Query: "chaetornis striata" ; Times: 5
+	Query: "notoryctes type:specimen (skeleton)" ; Times: 1
+	Query: "Syrmaticus ellioti type:specimen" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 9
+	Query: "Cypsnagra hirundinacea" ; Times: 1
+	Query: "specificepithet:loricata genus:Compsothraupis" ; Times: 1
+	Query: "Pterocles orientalis India skin" ; Times: 5
+	Query: "c livia" ; Times: 1
+	Query: "Geocolaptes tissue:1" ; Times: 3
+	Query: "homo sapiens tissue:1" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "Coelodonta antiquitatis" ; Times: 7
+	Query: "lobodon carcinophaga" ; Times: 1
+	Query: "paradisaea rudolphi" ; Times: 1
+	Query: "aythya nyroca" ; Times: 4
+	Query: "muscicapa ruficauda" ; Times: 8
+	Query: "Anomaluridae type:specimen (skeleton)" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Panama"" ; Times: 1
+	Query: "Nonnula institutioncode:UMZC" ; Times: 1
+	Query: "specificepithet:abeillei genus:Orchesticus" ; Times: 2
+	Query: "cuculus saturatus" ; Times: 2
+	Query: "rhodonessa caryophyllacea" ; Times: 1
+	Query: "Eupleridae" ; Times: 2
+	Query: "Cyclemys" ; Times: 1
+	Query: "Regalecus" ; Times: 3
+	Query: "chrysochloridae type:specimen (skeleton)" ; Times: 1
+	Query: "Neochen jubata" ; Times: 1
+	Query: "Oryx leucoryx" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "chlorocharis emiliae" ; Times: 1
+	Query: "Circus macrosceles type:specimen" ; Times: 1
+	Query: "Necturus type:specimen (mississippi)" ; Times: 1
+	Query: "BERUS" ; Times: 1
+	Query: "scotobleps" ; Times: 1
+	Query: "skeleton asio flammeus AND complete" ; Times: 2
+	Query: ""west indies" type:specimen specificepithet:virginianus genus:odocoileus" ; Times: 1
+	Query: "Branta Sandvicensis (skeleton)" ; Times: 1
+	Query: "type:specimen specificepithet:virginianus genus:odocoileus (caribbean)" ; Times: 1
+	Query: "pseudoseisura" ; Times: 1
+	Query: "pulsatrix koeniswaldiana" ; Times: 2
+	Query: "Picoides tridactylus tissue:1" ; Times: 1
+	Query: "specificepithet:ruficapillus genus:Schistochlamys" ; Times: 1
+	Query: "Litopterna" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "megalaima haemacephala" ; Times: 1
+	Query: "dendrelaphis caudolineatus" ; Times: 3
+	Query: "accipiter gularis" ; Times: 4
+	Query: "Mniotilta varia type:specimen country:"Guatemala"" ; Times: 1
+	Query: "Carduelis country:"India"" ; Times: 2
+	Query: "Leptotila wellsi type:specimen" ; Times: 1
+	Query: "Ward Coccothraustes coccothraustes" ; Times: 2
+	Query: "Otus scops country:"India"" ; Times: 1
+	Query: "Pseudibis" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 49
+	Query: "45870" ; Times: 1
+	Query: "cuculus poliocephalus" ; Times: 2
+	Query: "genus:Idiurus" ; Times: 1
+	Query: "Pipile pipile type:specimen" ; Times: 1
+	Query: "Monasa institutioncode:UMZC" ; Times: 1
+	Query: "Chlamydotis macqueenii type:specimen" ; Times: 1
+	Query: "Gypohierax angolensis" ; Times: 1
+	Query: "campephilus tissue:1" ; Times: 2
+	Query: "Micrastur institutioncode:UMZC" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "Nesillas typica longicaudata" ; Times: 1
+	Query: "hieraaetus pennatus" ; Times: 11
+	Query: "glaucidium cuculoides" ; Times: 1
+	Query: "candicans" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "skeleton Branta Sandvicensis AND (incomplete)" ; Times: 1
+	Query: "country:"India" specificepithet:calliope year <= 2015" ; Times: 2
+	Query: "genus:Tauraco tissue:1" ; Times: 7
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "picus tissue:1" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 3
+	Query: "Choloepus hoffmanni country:"Costa Rica"" ; Times: 1
+	Query: "Dinornithiformes" ; Times: 3
+	Query: "Hypsipetes cinereus" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 7
+	Query: "asthenes humicola" ; Times: 1
+	Query: "Hypsipetes flavala" ; Times: 1
+	Query: "Chlamydotis undulata" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 2
+	Query: "specificepithet:thoracica genus:Poospiza" ; Times: 1
+	Query: "Coccothraustes coccothraustes country:"Pakistan"" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "Mystacornis crossleyi" ; Times: 1
+	Query: "Lophiomys" ; Times: 1
+	Query: "cylindrophis maculatus" ; Times: 2
+	Query: "hypsilurus godeffroyi" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "strix nebulosa lapland" ; Times: 1
+	Query: "atropus" ; Times: 1
+	Query: "Guttera type:specimen tissue:1" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "Monasa tissue:1" ; Times: 1
+	Query: "specificepithet:bulocki genus:merops" ; Times: 1
+	Query: "Glaucus atlanticus" ; Times: 3
+	Query: "skeleton Branta Sandvicensis AND (NOT incomplete)" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "specificepithet:peruviana genus:Tangara" ; Times: 1
+	Query: "mastodon" ; Times: 1
+	Query: "genus:Ptilocercus" ; Times: 1
+	Query: "marmaronetta angustirostris" ; Times: 1
+	Query: "Eudyptes filholi type:specimen" ; Times: 1
+	Query: "Alectrurus tricolor" ; Times: 1
+	Query: "Falco sparverius tropicalis type:specimen" ; Times: 2
+	Query: "nesophontes" ; Times: 1
+	Query: "Ducula luctuosa type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "choloepus hoffmanni country:"Costa Rica"" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 112 (out of 1084 download events in this period)
+Total number of records downloaded: 3848 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3440
+Number of different countries: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Jamaica ; Times: 2
+	Country: Kenya ; Times: 2
+	Country: Mexico ; Times: 18
+	Country: Netherlands ; Times: 1
+	Country: Panama ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 67
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 8
+	Date: 2015-07-03 ; Times: 6
+	Date: 2015-07-04 ; Times: 2
+	Date: 2015-07-06 ; Times: 13
+	Date: 2015-07-07 ; Times: 7
+	Date: 2015-07-08 ; Times: 6
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 1
+	Date: 2015-07-15 ; Times: 2
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-19 ; Times: 2
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 4
+	Date: 2015-07-22 ; Times: 12
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 6
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 3
+	Date: 2015-07-28 ; Times: 3
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 3
+	Date: 2015-07-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cucullata genus:Tangara" ; Times: 1
+	Query: ""vireo osburni" country:"Jamaica" year <= 2015" ; Times: 1
+	Query: "skeleton Branta Sandvicensis AND (NOT incomplete) AND complete" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Hypsipetes flavala" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "Geospiza fortis" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Guatemala"" ; Times: 2
+	Query: "regalecus" ; Times: 1
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "Vireonidae Vireo osburni" ; Times: 1
+	Query: "specificepithet:cinerea genus:Poospiza" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Trionyx muticus" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "dasypeltis" ; Times: 1
+	Query: "("DRC" OR "Democratic Republic of the Congo" )" ; Times: 1
+	Query: "specificepithet:rufum genus:Conirostrum" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "specificepithet:conirostris genus:Geospiza" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "cebus albifrons" ; Times: 2
+	Query: "namibia" ; Times: 1
+	Query: "specificepithet:parvulus genus:Camarhynchus" ; Times: 1
+	Query: "sporophila americana" ; Times: 1
+	Query: "triceratops" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 2
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Geospiza scandens" ; Times: 1
+	Query: "specificepithet:olivacea genus:Certhidea" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "specificepithet:loricata genus:Compsothraupis" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "c livia" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "specificepithet:notabilis genus:Anisognathus" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Panama"" ; Times: 1
+	Query: "petrodromus" ; Times: 1
+	Query: "Streptoprocne" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "skeleton Branta Sandvicensis AND (NOT incomplete)" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Regalecus" ; Times: 1
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "specificepithet:psittacula genus:Camarhynchus" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "bufo valliceps" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "Choloepus hoffmanni country:"Costa Rica"" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "specificepithet:ruficapillus genus:Schistochlamys" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "aepyornis" ; Times: 2
+	Query: "callisaurus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:inornata genus:Pinaroloxias" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "macroscelides" ; Times: 1
+	Query: "type:specimen (bufonidae OR Rhinella OR Atelopus) tissue:1" ; Times: 1
+	Query: "Campylorhynchus rufinucha" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "country:"India" specificepithet:calliope year <= 2015" ; Times: 1
+	Query: "Reptilia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "Eurynorhynchus pygmeus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Geospiza difficilis" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Dendroica kirtlandii type:specimen" ; Times: 1
+	Query: "Cordylidae" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "specificepithet:peruviana genus:Tangara" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Geospiza fuliginosa" ; Times: 1
+	Query: "choloepus hoffmanni country:"Costa Rica"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2447
+Total number of records retrieved from searches: 11968
+Number of download events that retrieved data from the resource: 592
+Total number of records downloaded: 23249
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2607
+Total number of records retrieved from searches: 12608
+Number of download events that retrieved data from the resource: 885
+Total number of records downloaded: 37517
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
