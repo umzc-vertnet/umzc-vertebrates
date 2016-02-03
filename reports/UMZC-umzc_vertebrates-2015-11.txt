@@ -1,0 +1,403 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 271
+Number of records retrieved in searches: 1520
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 212
+	Country: Netherlands ; Times: 4
+	Country: Italy ; Times: 2
+	Country: South Africa ; Times: 2
+	Country: Denmark ; Times: 23
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: Japan ; Times: 4
+	Country: New Zealand ; Times: 3
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 14
+	Date: 2015-11-18 ; Times: 6
+	Date: 2015-11-30 ; Times: 13
+	Date: 2015-11-25 ; Times: 5
+	Date: 2015-11-11 ; Times: 6
+	Date: 2015-11-10 ; Times: 5
+	Date: 2015-11-13 ; Times: 14
+	Date: 2015-11-12 ; Times: 13
+	Date: 2015-11-15 ; Times: 9
+	Date: 2015-11-14 ; Times: 7
+	Date: 2015-11-17 ; Times: 5
+	Date: 2015-11-16 ; Times: 9
+	Date: 2015-11-01 ; Times: 2
+	Date: 2015-11-20 ; Times: 9
+	Date: 2015-11-07 ; Times: 5
+	Date: 2015-11-04 ; Times: 11
+	Date: 2015-11-23 ; Times: 14
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 38
+	Date: 2015-11-28 ; Times: 2
+	Date: 2015-11-29 ; Times: 6
+	Date: 2015-11-02 ; Times: 9
+	Date: 2015-11-03 ; Times: 11
+	Date: 2015-11-26 ; Times: 12
+	Date: 2015-11-27 ; Times: 3
+	Date: 2015-11-06 ; Times: 6
+	Date: 2015-11-21 ; Times: 7
+	Date: 2015-11-22 ; Times: 6
+	Date: 2015-11-05 ; Times: 6
+	Date: 2015-11-24 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "merops nubicoides" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "Didunculus tissue:1" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (stigmatus)" ; Times: 2
+	Query: "class:Reptilia (Trigonocephalus)" ; Times: 1
+	Query: "Raphus cucullatus" ; Times: 2
+	Query: "dendrocitta leucogastra" ; Times: 8
+	Query: "genus:Biziura preparations:skeleton" ; Times: 1
+	Query: "leptopelis brevirostris" ; Times: 1
+	Query: "circaetus tissue:1" ; Times: 1
+	Query: "catreus wallichii" ; Times: 7
+	Query: "Charadrius hiaticula tissue:1" ; Times: 1
+	Query: "dermochelys coriacea -india" ; Times: 2
+	Query: "Lepidosiren" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "Notiomystis" ; Times: 1
+	Query: "Crinifer zonurus" ; Times: 1
+	Query: "eudyptes tissue:1" ; Times: 2
+	Query: "Anastomus lamelligerus madagascariensis type:specimen" ; Times: 1
+	Query: "merops leschenaulti" ; Times: 1
+	Query: "Rhynochetos" ; Times: 2
+	Query: "Lophura bulweri" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (leucotis)" ; Times: 1
+	Query: "nectarinia minima" ; Times: 1
+	Query: "tockus griseus" ; Times: 1
+	Query: "Himantopus himantopus tissue:1" ; Times: 1
+	Query: "canis mesomelas" ; Times: 2
+	Query: "Charitospiza eucosma brazil" ; Times: 1
+	Query: "Psittacidae sc" ; Times: 1
+	Query: "Thraupis cyanoptera" ; Times: 1
+	Query: "Trionyx muticus" ; Times: 1
+	Query: "rhizothera" ; Times: 3
+	Query: "specificepithet:gallus genus:Gallus year &gt;= 1700 year &lt;= 1920" ; Times: 2
+	Query: "Arremon taciturnus brazil" ; Times: 1
+	Query: "anser anser india" ; Times: 1
+	Query: "perdicula asiatica" ; Times: 1
+	Query: "dendrocitta cinerascens" ; Times: 1
+	Query: "Corydon Aves type:specimen" ; Times: 1
+	Query: "Thylacinus" ; Times: 1
+	Query: "polyplectron bicalcaratum" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (imperialis)" ; Times: 2
+	Query: "Tachybaptus ruficollis tissue:1" ; Times: 1
+	Query: "Ploceus galbula" ; Times: 1
+	Query: "Chaeropus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (Strigops)" ; Times: 1
+	Query: "specificepithet:gorilla genus:gorilla" ; Times: 1
+	Query: "specificepithet:delicatissima genus:Iguana class:Reptilia" ; Times: 1
+	Query: "dumetia hyperythra" ; Times: 1
+	Query: "butastur teesa" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (agilis)" ; Times: 2
+	Query: "Malimbus scutatus" ; Times: 3
+	Query: "Homopus signatus" ; Times: 1
+	Query: "F.W. Hutton" ; Times: 2
+	Query: "neopelma aurifrons" ; Times: 2
+	Query: "Gypaetus tissue:1" ; Times: 1
+	Query: "Foudia sechellarum" ; Times: 3
+	Query: "centropus tissue :1" ; Times: 1
+	Query: "calyptura" ; Times: 1
+	Query: "tragopan satyra" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (militaris)" ; Times: 1
+	Query: "pitta brachyura india" ; Times: 2
+	Query: "emberiza melanocephala" ; Times: 4
+	Query: "type:specimen genus:Cyanoramphus order:Psittaciformes (malherbi)" ; Times: 1
+	Query: "Caprimulgus europaeus tissue:1" ; Times: 1
+	Query: "Rana lessonae" ; Times: 1
+	Query: "Pteroglossus beauharnaesii type:specimen preparations:skin" ; Times: 1
+	Query: "Alle tissue:1" ; Times: 1
+	Query: "Hemiphaga tissue:1" ; Times: 1
+	Query: "Cyclanorbis senegalensis" ; Times: 1
+	Query: "Leptoptilos dubius type:specimen" ; Times: 1
+	Query: "podicipedidae institutioncode:UMZC" ; Times: 1
+	Query: "genus:Marmaronetta preparations:skeleton" ; Times: 1
+	Query: "Leptoptilos dubius" ; Times: 2
+	Query: "type:specimen order:Psittaciformes (malherbi)" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (Psittacula finschii)" ; Times: 1
+	Query: "Geoemyda" ; Times: 1
+	Query: "rhodonessa" ; Times: 1
+	Query: "Anhima tissue:1" ; Times: 1
+	Query: "england Dama dama" ; Times: 1
+	Query: "type:specimen genus:callaeas" ; Times: 1
+	Query: "megalaima malabarica" ; Times: 1
+	Query: "acrocephalus aedon india" ; Times: 1
+	Query: "Neopelma chrysocephalum" ; Times: 2
+	Query: "numenius tenuirostris" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 2
+	Query: "Foudia eminentissima" ; Times: 1
+	Query: "Ara militaris tissue:1" ; Times: 1
+	Query: "Neopsittacus tissue:1" ; Times: 2
+	Query: "aegypius tissue:1" ; Times: 3
+	Query: "Abeillia abeillei" ; Times: 1
+	Query: "Seleucidis tissue:1" ; Times: 1
+	Query: "type:specimen genus:Prioniturus order:Psittaciformes (flavicans)" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "ichthyosaur" ; Times: 1
+	Query: "anas acuta india" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (lucianii)" ; Times: 1
+	Query: "zoothera dauma india" ; Times: 1
+	Query: "glaucus atlanticus" ; Times: 1
+	Query: "institutioncode:umzc aves" ; Times: 1
+	Query: "coua tissue:1" ; Times: 6
+	Query: "Foudia aldabrana" ; Times: 1
+	Query: "plegadis falcinellus year &lt;= 1900" ; Times: 1
+	Query: "uranoscopus crassiceps" ; Times: 1
+	Query: "Compsothraupis loricata" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (unicolor)" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (flavicans)" ; Times: 1
+	Query: "specificepithet:pelzelnii family:Podicipedidae" ; Times: 2
+	Query: "minous inermis" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "Metabolus rugensis" ; Times: 1
+	Query: "Cophotis ceylanica" ; Times: 1
+	Query: "acrocephalus dumetorum india" ; Times: 1
+	Query: "Threskiornis bernieri" ; Times: 1
+	Query: "clamator coromandus" ; Times: 1
+	Query: "Philydor rufus" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "Treron calva tissue:1" ; Times: 1
+	Query: "Caloenas nicobarica tissue:1" ; Times: 1
+	Query: "sporophila schistacea brazil" ; Times: 1
+	Query: "dendroaspis" ; Times: 1
+	Query: "echis carinatus india" ; Times: 1
+	Query: "skeleton andrias" ; Times: 1
+	Query: "specificepithet:rufopectus family:Podicipedidae" ; Times: 1
+	Query: "piranga rubra brazil" ; Times: 1
+	Query: "canis adustus" ; Times: 1
+	Query: "pseudibis" ; Times: 1
+	Query: "leptoptilos dubius" ; Times: 2
+	Query: "type:specimen order:Psittaciformes (arausiaca)" ; Times: 1
+	Query: "tangara cyanoventris" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (exsul)" ; Times: 2
+	Query: "menura tissue:1" ; Times: 1
+	Query: "anas poecilorhyncha-india" ; Times: 1
+	Query: "columba elphinstonii" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (splendens)" ; Times: 2
+	Query: "specificepithet:heckeri" ; Times: 1
+	Query: "pavo muticus" ; Times: 2
+	Query: "genus:Cophotis class:Reptilia" ; Times: 1
+	Query: "type:specimen genus:Sarkidiornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Lanius excubitor country:&#34;India&#34;" ; Times: 1
+	Query: "Ploceus benghalensis" ; Times: 3
+	Query: "class:aves country:&#34;japan&#34; year &gt;= 1906 year &lt;= 1906" ; Times: 1
+	Query: "megalaima rubricapilla" ; Times: 2
+	Query: "institutioncode:umzc" ; Times: 5
+	Query: "type:specimen order:Psittaciformes (rhodocorytha)" ; Times: 1
+	Query: "Myrmoderus loricatus" ; Times: 1
+	Query: "connochaetes" ; Times: 2
+	Query: "Crinifer zonurus tissue:1" ; Times: 3
+	Query: "Homopus" ; Times: 1
+	Query: "acrocephalus agricola" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (exsul)" ; Times: 3
+	Query: "Saltator fuliginosus" ; Times: 1
+	Query: "didunculus" ; Times: 1
+	Query: "type:specimen genus:Psittacula order:Psittaciformes (finschii)" ; Times: 1
+	Query: "phylloscopus davisoni india" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (peruviana)" ; Times: 1
+	Query: "ardeotis tissue:1" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "Pelobates fuscus type:specimen" ; Times: 2
+	Query: "myophonus horsfieldii" ; Times: 2
+	Query: "Ixodes" ; Times: 2
+	Query: "type:specimen order:Psittaciformes (calliptera)" ; Times: 2
+	Query: "myophonus caeruleus" ; Times: 1
+	Query: "Pelodytes punctatus type:specimen" ; Times: 1
+	Query: "melophus lathami" ; Times: 3
+	Query: "pteroclidae" ; Times: 1
+	Query: "pomarea" ; Times: 1
+	Query: "type:specimen genus:Touit order:Psittaciformes (melanonotus)" ; Times: 2
+	Query: "genus:Cereopsis preparations:skeleton" ; Times: 1
+	Query: "Loxigilla barbadensis" ; Times: 2
+	Query: "aythya nyroca india" ; Times: 1
+	Query: "dicrurus caerulescens" ; Times: 2
+	Query: "Geronticus calvus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (Anodorhynchus)" ; Times: 1
+	Query: "anas superciliosa pelewensis" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (modesta)" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 2
+	Query: "burhinus oedicnemus" ; Times: 1
+	Query: "zoothera dauma" ; Times: 6
+	Query: "Pinguinus" ; Times: 1
+	Query: "Foudia rubra" ; Times: 3
+	Query: "Myrmoderus squamosus" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 4
+	Query: "type:specimen order:Psittaciformes country:&#34;BRAZIL&#34; (LEUCOTIS)" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (echo)" ; Times: 2
+	Query: "Psalidoprocne pristoptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 121 (out of 751 download events in this period)
+Total number of records downloaded: 40954
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 62
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 8
+	Country: Panama ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 10
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 7
+	Country: Japan ; Times: 8
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-18 ; Times: 4
+	Date: 2015-11-30 ; Times: 7
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-11 ; Times: 7
+	Date: 2015-11-10 ; Times: 3
+	Date: 2015-11-13 ; Times: 2
+	Date: 2015-11-12 ; Times: 12
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-14 ; Times: 4
+	Date: 2015-11-17 ; Times: 3
+	Date: 2015-11-16 ; Times: 5
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-06 ; Times: 6
+	Date: 2015-11-21 ; Times: 3
+	Date: 2015-11-04 ; Times: 5
+	Date: 2015-11-23 ; Times: 5
+	Date: 2015-11-08 ; Times: 2
+	Date: 2015-11-09 ; Times: 10
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-29 ; Times: 3
+	Date: 2015-11-02 ; Times: 8
+	Date: 2015-11-03 ; Times: 2
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-01 ; Times: 4
+	Date: 2015-11-20 ; Times: 8
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "chrysococcyx cupreus" ; Times: 1
+	Query: "merops nubicoides" ; Times: 1
+	Query: "pelecanoides garnotii" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "Thraupis sayaca" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:Biziura preparations:skeleton" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Sitta castanea" ; Times: 1
+	Query: "class:Mammalia Cervus canadensis" ; Times: 2
+	Query: "Trionyx muticus" ; Times: 1
+	Query: "Sterna fuscata" ; Times: 1
+	Query: "Corydon Aves type:specimen" ; Times: 2
+	Query: "halcyon senegalensis" ; Times: 1
+	Query: "Alauda month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:delicatissima genus:Iguana class:Reptilia" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "pomatorhinus ruficollis" ; Times: 1
+	Query: "cuculus solitarius" ; Times: 1
+	Query: "F.W. Hutton" ; Times: 1
+	Query: "dendroaspis" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "halcyon leucocephala" ; Times: 1
+	Query: "Synallaxis ruficapilla" ; Times: 1
+	Query: "metachirus" ; Times: 2
+	Query: "Rhipidura rufifrons" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Bucephala preparations:skeleton" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "clamator glandarius" ; Times: 1
+	Query: "Melophus type:specimen class:Aves" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "Penelope purpurascens" ; Times: 1
+	Query: "Thraupis ornata" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "phytotoma rara" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Anhimidae preparations:skeleton" ; Times: 1
+	Query: "felis lynx" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "institutioncode:umzc aves" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Callisaurus" ; Times: 2
+	Query: "Notophthalmus" ; Times: 1
+	Query: "panama anomalepididae" ; Times: 1
+	Query: "Cnemidophorus lemniscatus" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "Hemitriccus diops" ; Times: 1
+	Query: "genus:Somateria preparations:skeleton" ; Times: 1
+	Query: "Philydor rufus" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "Numenius borealis" ; Times: 3
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "panama colubridae" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 12
+	Query: "Mozambique Aves" ; Times: 1
+	Query: "Myocastor" ; Times: 1
+	Query: "class:Aves country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "ispidina picta" ; Times: 1
+	Query: "Mammoth Cave" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "Bradypus" ; Times: 2
+	Query: "andrias skeleton" ; Times: 1
+	Query: "Clytorhynchus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Peru&#34;" ; Times: 1
+	Query: "Myrmoderus loricatus" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "herpestes ichneumon" ; Times: 1
+	Query: "genus:Branta preparations:skeleton" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "genus:Chenonetta preparations:skeleton" ; Times: 1
+	Query: "genus:Melanitta preparations:skeleton" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 2
+	Query: "procyon lotor" ; Times: 2
+	Query: "Myrmoderus squamosus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "genus:Cereopsis preparations:skeleton" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus tissue:1" ; Times: 1
+	Query: "genus:Calamaria" ; Times: 1
+	Query: "chrysococcyx klaas" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "acridotheres tristis" ; Times: 1
+
+
+End of report.
