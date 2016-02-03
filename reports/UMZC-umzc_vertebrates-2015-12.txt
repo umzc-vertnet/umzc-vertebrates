@@ -1,0 +1,275 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 359
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: Serbia ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 97
+	Country: Germany ; Times: 16
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-17 ; Times: 3
+	Date: 2015-12-06 ; Times: 8
+	Date: 2015-12-09 ; Times: 3
+	Date: 2015-12-08 ; Times: 4
+	Date: 2015-12-03 ; Times: 5
+	Date: 2015-12-02 ; Times: 5
+	Date: 2015-12-01 ; Times: 6
+	Date: 2015-12-07 ; Times: 11
+	Date: 2015-12-16 ; Times: 3
+	Date: 2015-12-05 ; Times: 10
+	Date: 2015-12-04 ; Times: 7
+	Date: 2015-12-21 ; Times: 6
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-22 ; Times: 1
+	Date: 2015-12-25 ; Times: 4
+	Date: 2015-12-24 ; Times: 10
+	Date: 2015-12-27 ; Times: 9
+	Date: 2015-12-26 ; Times: 4
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-14 ; Times: 8
+	Date: 2015-12-15 ; Times: 8
+	Date: 2015-12-30 ; Times: 2
+	Date: 2015-12-31 ; Times: 10
+	Date: 2015-12-10 ; Times: 4
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-12 ; Times: 8
+	Date: 2015-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locustella certhiola india" ; Times: 1
+	Query: "chrysopelea" ; Times: 2
+	Query: "Naemorhedus" ; Times: 2
+	Query: "Diphyllodes respublica preparations:skin" ; Times: 1
+	Query: "type:specimen specificepithet:minor genus:pachyramphus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Uromastyx benti" ; Times: 1
+	Query: "gyps fulvus" ; Times: 2
+	Query: "catreus wallichii" ; Times: 3
+	Query: "specificepithet:turdinus genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:iodopleura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ducula aenea india" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 3
+	Query: "Camptorhynchus labradorius" ; Times: 5
+	Query: "pyrrhocorax graculus tissue:1" ; Times: 4
+	Query: "Otus nudipes type:specimen" ; Times: 1
+	Query: "specificepithet:olivieri family:rallidae preparations:skin" ; Times: 1
+	Query: "acrocephalus agricola india" ; Times: 2
+	Query: "Lophura pyronota preparations:skin" ; Times: 2
+	Query: "clamator coromandus india" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 2
+	Query: "rynchops albicollis" ; Times: 1
+	Query: "specificepithet:rectunguis family:Cuculidae" ; Times: 2
+	Query: "dendrocitta cinerascens" ; Times: 1
+	Query: "Lemur catta" ; Times: 2
+	Query: "gallus sonneratii india" ; Times: 2
+	Query: "specificepithet:inquisitor genus:Tityra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Mascarenotus" ; Times: 1
+	Query: "specificepithet:semifasciata genus:Tityra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Spindalis zena zena year &gt;= 1800 year &lt;= 1890" ; Times: 1
+	Query: "amazona vinacea" ; Times: 2
+	Query: "specificepithet:fluminea family:rallidae preparations:skin" ; Times: 1
+	Query: "felis onca" ; Times: 1
+	Query: "dendrocitta occipitalis" ; Times: 1
+	Query: "Lophura bulweri preparations:skin" ; Times: 1
+	Query: "genus:laniisoma class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "erithacus brunneus" ; Times: 1
+	Query: "emys orbicularis" ; Times: 1
+	Query: "lutra sumatrana" ; Times: 2
+	Query: "Astrapia stephaniae preparations:skin" ; Times: 1
+	Query: "cynoglossus carpenteri" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 2
+	Query: "nyctyornis athertoni india" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Threskiornis spinicollis preparations:skin" ; Times: 1
+	Query: "specificepithet:akool family:rallidae preparations:skin" ; Times: 1
+	Query: "Parotia sefilata preparations:skin" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "Threskiornis bernieri preparations:skin" ; Times: 1
+	Query: "Carpococcyx" ; Times: 1
+	Query: "Pterodroma cookii" ; Times: 1
+	Query: "Syrmaticus ellioti preparations:skin" ; Times: 1
+	Query: "Dendrocitta leucogastra" ; Times: 6
+	Query: "aegypius tissue:1" ; Times: 1
+	Query: "vipera aspis" ; Times: 1
+	Query: "notiomystis" ; Times: 1
+	Query: "phalacrocorax carbo india" ; Times: 1
+	Query: "Sceloglaux albifacies" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Eurythoe complanata" ; Times: 1
+	Query: "Pycnonotus priocephalus" ; Times: 1
+	Query: "phylloscopus inornatus scotland" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 12
+	Query: "margaroperdix" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (auricapillus)" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "genus:Iodopleura class:Aves" ; Times: 1
+	Query: "Drepanornis bruijnii preparations:skin" ; Times: 1
+	Query: "circaetus gallicus india" ; Times: 1
+	Query: "hieraaetus pennatus india" ; Times: 1
+	Query: "Gehyra vorax" ; Times: 2
+	Query: "Pycnonotus cyaniventris" ; Times: 1
+	Query: "caprimulgus macrurus india" ; Times: 2
+	Query: "aves socotra" ; Times: 1
+	Query: "turnix tissue:1" ; Times: 1
+	Query: "Pluvianus" ; Times: 1
+	Query: "oxyruncus type:specimen" ; Times: 3
+	Query: "francolinus pictus" ; Times: 1
+	Query: "Draco fimbriatus" ; Times: 1
+	Query: "menura tissue:1" ; Times: 1
+	Query: "Hypsipetes borbonicus tissue:1" ; Times: 1
+	Query: "urocissa flavirostris" ; Times: 1
+	Query: "genus:Potamogale" ; Times: 2
+	Query: "tragopan melanocephalus" ; Times: 2
+	Query: "Diphyllodes respublica" ; Times: 1
+	Query: "type:specimen specificepithet:barbatus genus:Myiobius class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:virescens genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "caprimulgus atripennis" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "Columbina passerina nigrirostris" ; Times: 1
+	Query: "amblyopsis kentucky" ; Times: 1
+	Query: "Pteroglossus beauharnaesii preparations:skin" ; Times: 1
+	Query: "type:specimen genus:Pionus order:Psittaciformes (fuscus)" ; Times: 1
+	Query: "netta rufina india" ; Times: 1
+	Query: "type:specimen order:Psittaciformes (modesta)" ; Times: 1
+	Query: "Zygolophodon" ; Times: 1
+	Query: "Ploceus manyar" ; Times: 1
+	Query: "Sarothrura watersi preparations:skin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 889 download events in this period)
+Total number of records downloaded: 1169
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 3
+	Country: United States ; Times: 63
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 5
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-04 ; Times: 3
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-20 ; Times: 2
+	Date: 2015-12-23 ; Times: 6
+	Date: 2015-12-17 ; Times: 5
+	Date: 2015-12-25 ; Times: 7
+	Date: 2015-12-24 ; Times: 4
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-26 ; Times: 3
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 3
+	Date: 2015-12-31 ; Times: 5
+	Date: 2015-12-11 ; Times: 8
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-13 ; Times: 3
+	Date: 2015-12-18 ; Times: 6
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia" ; Times: 1
+	Query: "bufo compactilis" ; Times: 2
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "lophotriccus pileatus type:specimen" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 2
+	Query: "Henicorhina leucophrys type:specimen" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Selasphorus scintilla type:specimen" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "Uromacer oxyrhynchus" ; Times: 1
+	Query: "specificepithet:onca family:Felidae" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "class:Aves country:&#34;French Guiana&#34;" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "carollia" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "specificepithet:pajeros family:Felidae" ; Times: 1
+	Query: "Tiliqua gigas" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "type:specimen family:Thraupidae country:&#34;United States&#34; sex:male" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "grallaria rufula type:specimen" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "grallaria ruficapilla type:specimen" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio tissue:1" ; Times: 1
+	Query: "Sceloporus gadoviae" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+	Query: "Ammodramus caudacutus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Gerbillus" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+
+
+End of report.
