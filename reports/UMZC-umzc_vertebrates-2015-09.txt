@@ -1,0 +1,413 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 358
+Number of records retrieved in searches: 1328
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Turkey ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Australia ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: India ; Times: 8
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 7
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Jamaica ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 281
+	Country: Poland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 10
+	Date: 2015-09-09 ; Times: 10
+	Date: 2015-09-10 ; Times: 21
+	Date: 2015-09-11 ; Times: 27
+	Date: 2015-09-12 ; Times: 17
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 18
+	Date: 2015-09-15 ; Times: 10
+	Date: 2015-09-16 ; Times: 6
+	Date: 2015-09-17 ; Times: 18
+	Date: 2015-09-18 ; Times: 7
+	Date: 2015-09-19 ; Times: 10
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-29 ; Times: 23
+	Date: 2015-09-07 ; Times: 8
+	Date: 2015-09-06 ; Times: 35
+	Date: 2015-09-05 ; Times: 22
+	Date: 2015-09-04 ; Times: 10
+	Date: 2015-09-03 ; Times: 14
+	Date: 2015-09-28 ; Times: 13
+	Date: 2015-09-01 ; Times: 20
+	Date: 2015-09-25 ; Times: 6
+	Date: 2015-09-24 ; Times: 6
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-26 ; Times: 7
+	Date: 2015-09-21 ; Times: 4
+	Date: 2015-09-20 ; Times: 15
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-08 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "ploceus benghalensis skin" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "phylloscopus griseolus" ; Times: 2
+	Query: "phylloscopus occipitalis" ; Times: 2
+	Query: "specificepithet:horridus genus:crotalus tissue:1" ; Times: 1
+	Query: "pachyramphus niger" ; Times: 1
+	Query: "Spinachia" ; Times: 1
+	Query: "dendrocitta leucogastra" ; Times: 18
+	Query: "ploceus galbula" ; Times: 1
+	Query: "megalaima corvina skin" ; Times: 1
+	Query: "catreus wallichii" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "specificepithet:melanotus genus:Liophis country:&#34;Trinidad and Tobago&#34; institutioncode:UMZC" ; Times: 1
+	Query: "type:specimen genus:Cerastes family:Viperidae" ; Times: 2
+	Query: "Kachuga" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 2
+	Query: "ichthyophis glutinosus" ; Times: 8
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "specificepithet:melanotus genus:Liophis country:&#34;Trinidad and Tobago&#34;" ; Times: 1
+	Query: "anguis fragilis" ; Times: 3
+	Query: "Peromyscus eva" ; Times: 1
+	Query: "Dendrocitta cinerascens" ; Times: 1
+	Query: "turdoides affinis" ; Times: 1
+	Query: "Gallus sonneratii" ; Times: 2
+	Query: "meiglyptes tukki" ; Times: 1
+	Query: "trachyphonus margaritatus" ; Times: 2
+	Query: "turdoides striatus" ; Times: 1
+	Query: "marmoratus genus:gymnodactylus class:reptilia" ; Times: 1
+	Query: "dendrocitta cinerascens" ; Times: 3
+	Query: "genus:Strigops" ; Times: 1
+	Query: "Dermochelys (skel OR skeleton)" ; Times: 2
+	Query: "Colinus virginianus type:specimen tissue:1" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 2
+	Query: "Hemipus picatus India" ; Times: 1
+	Query: "schistes geoffroyi" ; Times: 1
+	Query: "lycodon aulicus" ; Times: 1
+	Query: "zosterops palpebrosa" ; Times: 1
+	Query: "uria lomvia type:specimen institutioncode:UMZC (skin)" ; Times: 1
+	Query: "Oenanthe picata country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:albifrons genus:leptotyphlops" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 4
+	Query: "ambystoma altamirani" ; Times: 1
+	Query: "crocodylus tissue:1" ; Times: 4
+	Query: "Dendrocopos leucotos" ; Times: 1
+	Query: "Colinus type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "type:specimen institutioncode:UMZC" ; Times: 1
+	Query: "tachyphonus flaviventris" ; Times: 2
+	Query: "ptiloris victoriae year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "erithacus brunneus" ; Times: 7
+	Query: "Pelochelys (skel OR skeleton)" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 1
+	Query: "viverricula" ; Times: 1
+	Query: "Pterocles orientalis India skin" ; Times: 3
+	Query: "Pipile pipile tissue:1" ; Times: 1
+	Query: "megalaima henricii skin borneo" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "acrocephalus melanopogon" ; Times: 1
+	Query: "plectrurus perroteti" ; Times: 1
+	Query: "Aves Sri Lanka tissue:1" ; Times: 1
+	Query: "lycaenops" ; Times: 1
+	Query: "Rana catesbiana" ; Times: 1
+	Query: "xenarthra tissue:1" ; Times: 1
+	Query: "Dipsochelys" ; Times: 1
+	Query: "acrocephalus palustris" ; Times: 2
+	Query: "calotes grandisquamis" ; Times: 1
+	Query: "parus xanthogenys" ; Times: 3
+	Query: "Ficedula albicilla country:&#34;India&#34;" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 35
+	Query: "buceros bicornis" ; Times: 1
+	Query: "Anthracothorax country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:felis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Mormoops blainvillii" ; Times: 3
+	Query: "specificepithet:fruticeti genus:Phrygilus" ; Times: 1
+	Query: "minous monodactylus" ; Times: 1
+	Query: "rissa brevirostris type:specimen (skin)" ; Times: 1
+	Query: "lucinidae" ; Times: 2
+	Query: "Epimachus fastuosus" ; Times: 1
+	Query: "turdoides earlei" ; Times: 1
+	Query: "MyrmecOphaga" ; Times: 1
+	Query: "testudo (skel OR skeleton)" ; Times: 1
+	Query: "chelodina (skel OR skeleton)" ; Times: 1
+	Query: "musophagidae tissue:1" ; Times: 1
+	Query: "Morenia" ; Times: 1
+	Query: "uria aalge type:specimen institutioncode:UMZC (skin)" ; Times: 1
+	Query: "Callagur" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "Vireo osburni" ; Times: 2
+	Query: "megalaima skeleton" ; Times: 1
+	Query: "type:specimen genus:Dasyornis" ; Times: 1
+	Query: "Coendou" ; Times: 2
+	Query: "rhipicephalus sanguineus" ; Times: 1
+	Query: "vultur" ; Times: 11
+	Query: "country:&#34;chili&#34; class:aves year &lt;= 1913" ; Times: 1
+	Query: "Dicaeum cruentatum country:&#34;india&#34;" ; Times: 1
+	Query: "pycnonotus cafer" ; Times: 6
+	Query: "lophophorus impejanus" ; Times: 2
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "type:specimen genus:Buphagus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Pachyramphus" ; Times: 5
+	Query: "crocuta" ; Times: 3
+	Query: "dendrelaphis tristis" ; Times: 6
+	Query: "myrmecophaga" ; Times: 1
+	Query: "phylloscopus coronatus" ; Times: 1
+	Query: "florisuga fuscus" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 1
+	Query: "melanotrochilus fuscus" ; Times: 7
+	Query: "terpsiphone incei" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 4
+	Query: "turtles" ; Times: 1
+	Query: "rissa tridactyla type:specimen institutioncode:UMZC (skin)" ; Times: 1
+	Query: "rupicola tissue:1" ; Times: 1
+	Query: "eryx conicus" ; Times: 7
+	Query: "Curruca curruca country:&#34;india&#34;" ; Times: 1
+	Query: "caryophyllacea skeleton" ; Times: 2
+	Query: "Rhinomyias gularis" ; Times: 2
+	Query: "Platacanthomys" ; Times: 2
+	Query: "dermoptera" ; Times: 2
+	Query: "Ficedula parva country:&#34;India&#34;" ; Times: 1
+	Query: "specificepithet:niger genus:Pachyramphus" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "pavo muticus" ; Times: 2
+	Query: "type:specimen specificepithet:niger genus:pachyramphus" ; Times: 1
+	Query: "batrachostomus auritus" ; Times: 1
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "Sturnus vulgaris country:&#34;india&#34;" ; Times: 1
+	Query: "notomys preparations:skeleton" ; Times: 3
+	Query: "Butastur indicus" ; Times: 3
+	Query: "gryphus" ; Times: 2
+	Query: "pelochelys" ; Times: 1
+	Query: "emberiza hortulana" ; Times: 3
+	Query: "specificepithet:niger genus:pachyramphus" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "genus:blanus" ; Times: 1
+	Query: "ungulinidae" ; Times: 1
+	Query: "Eremophila bilopha" ; Times: 1
+	Query: "batrachostomus stellatus" ; Times: 1
+	Query: "phylloscopus davisoni" ; Times: 1
+	Query: "ardeola idae" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "kachuga" ; Times: 2
+	Query: "tyto longimembris" ; Times: 1
+	Query: "dendrocopos leucotos" ; Times: 1
+	Query: "notomys type:specimen preparations:skeleton" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "Coturnix japonica" ; Times: 1
+	Query: "country:&#34;senegal&#34; year &gt;= 1892 year &lt;= 1902" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 3
+	Query: "specificepithet:melanonotus genus:touit" ; Times: 3
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "specificepithet:surda genus:touit" ; Times: 1
+	Query: "Dermoptera" ; Times: 14
+	Query: "parus major stupae" ; Times: 1
+	Query: "zoothera wardii" ; Times: 7
+	Query: "95750" ; Times: 2
+	Query: "Thylacinus type:specimen institutioncode:UMZC" ; Times: 1
+	Query: "ploceus manyar skin" ; Times: 1
+	Query: "phylloscopus xanthoschistos" ; Times: 2
+	Query: "genus:Papio preparations:skull" ; Times: 4
+	Query: "hexanchus griseus" ; Times: 2
+	Query: "asthenes humicola type:specimen" ; Times: 1
+	Query: "type:specimen genus:Notiomystis" ; Times: 1
+	Query: "megalaima henricii skin" ; Times: 1
+	Query: "Vultur gryphus tissue:1" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 150 (out of 1045 download events in this period)
+Total number of records downloaded: 6413
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Australia ; Times: 14
+	Country: Colombia ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 2
+	Country: France ; Times: 9
+	Country: United States ; Times: 80
+	Country: Chile ; Times: 2
+	Country: Thailand ; Times: 5
+	Country: Hong Kong ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-10 ; Times: 19
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-14 ; Times: 3
+	Date: 2015-09-15 ; Times: 7
+	Date: 2015-09-16 ; Times: 12
+	Date: 2015-09-17 ; Times: 15
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-29 ; Times: 2
+	Date: 2015-09-08 ; Times: 6
+	Date: 2015-09-30 ; Times: 5
+	Date: 2015-09-02 ; Times: 10
+	Date: 2015-09-19 ; Times: 10
+	Date: 2015-09-07 ; Times: 1
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-03 ; Times: 8
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 9
+	Date: 2015-09-25 ; Times: 8
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-26 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-22 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 2
+	Query: "Hyla crepitans" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "type:specimen genus:Colinus tissue:1" ; Times: 1
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Lampropeltis elapsoides" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Lepidodactylus" ; Times: 1
+	Query: "Hypocnemis cantator" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "marmoratus genus:gymnodactylus class:reptilia" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "genus:bradypus" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "year:1859" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Heloderma mexico" ; Times: 1
+	Query: "notomys type:specimen preparations:skeleton" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "aimophila aestivalis type:specimen" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "aves venezuela" ; Times: 1
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "genus:Marmosa" ; Times: 1
+	Query: "Moresby" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Bulgaria" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "order:Chiroptera continent:South America" ; Times: 2
+	Query: "enicurus ruficapillus" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Sorex araneus" ; Times: 1
+	Query: "Condylura cristata" ; Times: 1
+	Query: "Manis tetradactyla" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "pYTHON RETICULATUS" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Cracidae tissue:1" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "Necturus" ; Times: 1
+	Query: "octodon degus" ; Times: 1
+	Query: "type:specimen genus:Dasyornis" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Rhipidura" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "Tamias striatus" ; Times: 1
+	Query: "type:specimen genus:Eupetes" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "dermoptera" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Eurylaimus javanicus" ; Times: 1
+	Query: "country:&#34;fiji&#34; class:reptilia" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "gunnisoni" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "type:specimen genus:Macrocephalon" ; Times: 1
+	Query: "Tamias minimus" ; Times: 5
+	Query: "Manis gigantea" ; Times: 1
+	Query: "type:specimen genus:Moho" ; Times: 1
+	Query: "Eremophila bilopha" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "Irian" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Paradisaea rudolphi" ; Times: 2
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Manis temminckii" ; Times: 1
+	Query: "Micrurus mexico" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "country:&#34;fiji&#34; class:amphibia" ; Times: 1
+	Query: "Alcippe poioicephala" ; Times: 3
+	Query: "Psophia" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "didelphis marsupialis country:&#34;mexico&#34;" ; Times: 2
+	Query: "bufo marinus" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "garrulax ruficollis" ; Times: 2
+	Query: "genus:Papio preparations:skull" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+
+
+End of report.
