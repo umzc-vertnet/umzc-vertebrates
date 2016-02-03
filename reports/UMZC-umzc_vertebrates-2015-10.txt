@@ -1,0 +1,322 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 732
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Turkey ; Times: 1
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 13
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Denmark ; Times: 12
+	Country: United States ; Times: 120
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 10
+	Country: Azerbaijan ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 8
+	Date: 2015-10-14 ; Times: 15
+	Date: 2015-10-15 ; Times: 12
+	Date: 2015-10-12 ; Times: 5
+	Date: 2015-10-13 ; Times: 16
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 8
+	Date: 2015-10-18 ; Times: 5
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-29 ; Times: 15
+	Date: 2015-10-28 ; Times: 10
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-24 ; Times: 5
+	Date: 2015-10-23 ; Times: 8
+	Date: 2015-10-22 ; Times: 4
+	Date: 2015-10-21 ; Times: 18
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 9
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 10
+	Date: 2015-10-01 ; Times: 7
+	Date: 2015-10-03 ; Times: 4
+	Date: 2015-10-02 ; Times: 6
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sabah Columbidae" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "bos grunniens" ; Times: 3
+	Query: "Otus sunia country:&#34;India&#34;" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "victoria regia" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 1
+	Query: "circaetus tissue:1" ; Times: 3
+	Query: "Acanthodactylus schreiberi" ; Times: 1
+	Query: "phalacrocorax harrisi" ; Times: 4
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "emys OR clemmys tissue:1" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "Alcedo hercules country:&#34;India&#34;" ; Times: 1
+	Query: "Leptosomus discolor gracilis" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 2
+	Query: "nectarinia minima" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 1
+	Query: "Nyctibius aethereus" ; Times: 1
+	Query: "&#34;lagopus mutus&#34; tissue:1" ; Times: 1
+	Query: "ardeotis (skel OR skeleton) sex:female" ; Times: 1
+	Query: "country:&#34;Indonesia&#34; year &gt;= 1880 year &lt;= 1886" ; Times: 3
+	Query: "pomatorhinus schisticeps" ; Times: 1
+	Query: "turdoides striatus" ; Times: 1
+	Query: "melanoperdix" ; Times: 1
+	Query: "alcippe poioicephala" ; Times: 1
+	Query: "sphaerodactylus institutioncode:UMZC" ; Times: 1
+	Query: "Nestor meridionalis" ; Times: 9
+	Query: "loxigilla barbadensis" ; Times: 4
+	Query: "Motacilla citreola country:&#34;india&#34;" ; Times: 2
+	Query: "Gavialis" ; Times: 2
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "baku" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "Cnemidophorus Providencia" ; Times: 2
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "Amaurornis akool akool" ; Times: 1
+	Query: "skeleton specificepithet:harrisi family:Phalacrocoracidae" ; Times: 1
+	Query: "emberiza melanocephala" ; Times: 6
+	Query: "Pterocles orientalis India skin" ; Times: 4
+	Query: "sylvia atricapilla heineken" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 1
+	Query: "Platybelodon" ; Times: 1
+	Query: "acrocephalus melanopogon" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 1
+	Query: "Ortalis guttata guttata" ; Times: 1
+	Query: "idiocranium" ; Times: 1
+	Query: "Ortyxelos" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "francolinus levaillantii" ; Times: 1
+	Query: "jugger" ; Times: 2
+	Query: "muscicapa ruficauda" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "skeleton specificepithet:sandvicensis family:Anatidae" ; Times: 1
+	Query: "Motacilla flava country:&#34;india&#34;" ; Times: 1
+	Query: "Odontophorus capueira" ; Times: 3
+	Query: "ortyxelos" ; Times: 1
+	Query: "Eurygnathohippus" ; Times: 2
+	Query: "Andigena laminirostris" ; Times: 1
+	Query: "aegypius tissue:1" ; Times: 5
+	Query: "Temnospondyli (vertebrae)" ; Times: 1
+	Query: "monias benschi" ; Times: 1
+	Query: "sylvietta ruficapilla" ; Times: 1
+	Query: "ptilopachus petrosus" ; Times: 1
+	Query: "francolinus capensis" ; Times: 6
+	Query: "Ursus thibetanus" ; Times: 1
+	Query: "Emberiza bruniceps country:&#34;india&#34;" ; Times: 2
+	Query: "Francolinus pintadeanus" ; Times: 2
+	Query: "polygrammicus" ; Times: 2
+	Query: "pulsatrix koeniswaldiana" ; Times: 2
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Nyctiphrynus ocellatus" ; Times: 2
+	Query: "Bucorvus" ; Times: 1
+	Query: "uk lutra lutra" ; Times: 1
+	Query: "specificepithet:dufresniana genus:Amazona" ; Times: 3
+	Query: "turdoides subrufus" ; Times: 2
+	Query: "&#34;lagopus lagopus&#34; tissue:1" ; Times: 1
+	Query: "meleagrides" ; Times: 1
+	Query: "anthus berthelotii" ; Times: 2
+	Query: "parus major mahrattarum" ; Times: 1
+	Query: "lygosoma new guinea" ; Times: 1
+	Query: "parus xanthogenys" ; Times: 5
+	Query: "paradisaea rubra female" ; Times: 2
+	Query: "francolinus clappertoni" ; Times: 2
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "megalaima rubricapilla" ; Times: 1
+	Query: "carduelis cucullata" ; Times: 8
+	Query: "institutioncode:umzc" ; Times: 1
+	Query: "myophonus caeruleus" ; Times: 1
+	Query: "lamnidae heart" ; Times: 2
+	Query: "Eremophila bilopha" ; Times: 2
+	Query: "Homopus" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 5
+	Query: "capybara" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "myophonus horsfieldii" ; Times: 4
+	Query: "Calyptomena (skel OR skeleton)" ; Times: 1
+	Query: "sus verrucosus" ; Times: 2
+	Query: "Paradisaea rudolphi type:specimen" ; Times: 1
+	Query: "Harpactes oreskios" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "Coendou pruinosus" ; Times: 1
+	Query: "parus major india" ; Times: 1
+	Query: "Chrysochloridae" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Whitely" ; Times: 2
+	Query: "emberiza cineracea" ; Times: 1
+	Query: "Ardeotis (skel OR skeleton) sex:female" ; Times: 1
+	Query: "sarawak Erinaceidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 823 download events in this period)
+Total number of records downloaded: 2819
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 48
+	Country: Italy ; Times: 2
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Jamaica ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Czech Republic ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 10
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-18 ; Times: 2
+	Date: 2015-10-19 ; Times: 6
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-28 ; Times: 9
+	Date: 2015-10-27 ; Times: 6
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 8
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 4
+	Date: 2015-10-20 ; Times: 1
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-07 ; Times: 7
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-08 ; Times: 8
+	Date: 2015-10-30 ; Times: 8
+	Date: 2015-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "sabah Columbidae" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "family:GYMNOPHTHALMIDAE" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "emys OR clemmys tissue:1" ; Times: 1
+	Query: "Harpactes erythrocephalus" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "elapidae mexico" ; Times: 1
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "(ciccaba)" ; Times: 1
+	Query: "bison priscus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "ellice islands" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "specificepithet:principalis genus:campephilus" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "Nyctibius aethereus" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Panyptila cayennensis" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 2
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "Vireo osburni" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Sciuridae sabah" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "phyllomedusa hypochondrialis" ; Times: 1
+	Query: "genus:Adinotherium" ; Times: 1
+	Query: "family:Cercopithecidae (Sabah OR Sarawak)" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "sarawak columbidae" ; Times: 1
+	Query: "Coccothraustes abeillei" ; Times: 1
+	Query: "Lepidocolaptes leucogaster" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Chlamydosaurus kingii" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "dendroaspis angusticeps" ; Times: 2
+	Query: "PARAGUAY" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "sarawak Microhylidae" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "motacilla citreola" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "(Ctenomys opimus)" ; Times: 1
+
+
+End of report.
