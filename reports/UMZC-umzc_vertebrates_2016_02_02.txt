@@ -1,0 +1,293 @@
+Report for Institution Code UMZC, Resource Vertebrates
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 428
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: France ; Times: 2
+	Country: Hungary ; Times: 1
+	Country: India ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Portugal ; Times: 4
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: Thailand ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 96
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-02 ; Times: 2
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-04 ; Times: 36
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-06 ; Times: 16
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-08 ; Times: 13
+	Date: 2016-01-10 ; Times: 5
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-12 ; Times: 12
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-17 ; Times: 4
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 1
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-21 ; Times: 10
+	Date: 2016-01-22 ; Times: 11
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-25 ; Times: 3
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-27 ; Times: 7
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 1
+	Date: 2016-01-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cinclosoma ajax" ; Times: 2
+	Query: "Tadorna ferruginea" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "genus:Catharus hastypestatus:1" ; Times: 22
+	Query: "pitiayumi brazil" ; Times: 1
+	Query: "gorsachius" ; Times: 1
+	Query: "seleucidis tissue:1" ; Times: 3
+	Query: "Tetrax tetrax" ; Times: 2
+	Query: "sphenodon" ; Times: 1
+	Query: "unionidae" ; Times: 1
+	Query: "Caryothraustes canadensis brazil" ; Times: 1
+	Query: "struthio tissue:1" ; Times: 1
+	Query: "Fregilupus" ; Times: 1
+	Query: "Pythonidae tissue:1" ; Times: 2
+	Query: "euryceros prevostii" ; Times: 2
+	Query: "Felis leo" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 2
+	Query: "varanus salvator tissue:1" ; Times: 1
+	Query: "Perdicula" ; Times: 2
+	Query: "pseudibis" ; Times: 1
+	Query: "Henicorhina leucosticta hauxwelli" ; Times: 1
+	Query: "lophotibis cristata" ; Times: 1
+	Query: "Pagophila tissue:1" ; Times: 3
+	Query: "Chamaesaura macrolepis" ; Times: 1
+	Query: "33490" ; Times: 1
+	Query: "skin genus: Cyanicterus sex:male" ; Times: 1
+	Query: "oxyruncus" ; Times: 1
+	Query: "Puto" ; Times: 1
+	Query: "type:specimen order:psittaciformes (Psittacula exsul)" ; Times: 2
+	Query: "mesonychidae" ; Times: 1
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "pyriglena atra" ; Times: 4
+	Query: "genus:Turnix tissue:1" ; Times: 1
+	Query: "Cambarus" ; Times: 1
+	Query: "motacilla grandis" ; Times: 1
+	Query: "specificepithet:scolopacea genus:Eudynamys tissue:1" ; Times: 1
+	Query: "type:specimen class:insecta" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "minous" ; Times: 1
+	Query: "Falco naumanni" ; Times: 1
+	Query: "Ortyxelos" ; Times: 1
+	Query: "Catharus hastypestatus:1" ; Times: 1
+	Query: "terenura maculata type:specimen" ; Times: 1
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "genus:sceloglaux" ; Times: 1
+	Query: "Felis uncia" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 1
+	Query: "rhinoptilus bitorquatus" ; Times: 3
+	Query: "ortyxelos" ; Times: 1
+	Query: "genus:fregilupus" ; Times: 1
+	Query: "poospiza cinerea" ; Times: 2
+	Query: "Hippotragus niger" ; Times: 10
+	Query: "francolinus capensis" ; Times: 2
+	Query: "zoothera heinei" ; Times: 1
+	Query: "dicrurus adsimilis india" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "anas aucklandica" ; Times: 1
+	Query: "struthio type:specimen tissue:1" ; Times: 2
+	Query: "dicrurus leucophaeus india" ; Times: 1
+	Query: "phalacrocorax carbo india" ; Times: 1
+	Query: "felis pardus" ; Times: 1
+	Query: "passerina chiapensis" ; Times: 1
+	Query: "specificepithet:mollissima genus:zoothera" ; Times: 2
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "minous inermis" ; Times: 1
+	Query: "type:specimen specificepithet:quatuorlineatus" ; Times: 1
+	Query: "genus:georychus" ; Times: 2
+	Query: "(oxyruncus)" ; Times: 1
+	Query: "tadorna ferruginea india" ; Times: 1
+	Query: "Batrachostomus auritus" ; Times: 3
+	Query: "threskiornis bernieri" ; Times: 1
+	Query: "Macrauchenia" ; Times: 1
+	Query: "Uromastyx spinipes" ; Times: 1
+	Query: "Nonnula rubecula type:specimen" ; Times: 1
+	Query: "terpsiphone paradisi india" ; Times: 2
+	Query: "Fulica americana alai" ; Times: 1
+	Query: "Agama colonorum" ; Times: 1
+	Query: "anas sparsa" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 2
+	Query: "Basileuterus culicivorus brazil" ; Times: 1
+	Query: "Ptilorrhoa castanonota" ; Times: 2
+	Query: "rivularis brazil" ; Times: 1
+	Query: "anas chlorotis" ; Times: 2
+	Query: "oriolus chinensis india" ; Times: 1
+	Query: "Gypaetus" ; Times: 3
+	Query: "egretta ardesiaca" ; Times: 2
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "oriolus kundoo" ; Times: 2
+	Query: "skin genus: Lamprospiza sex:male" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 86 (out of 507 download events in this period)
+Total number of records downloaded: 816 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 744
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 9
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: United States ; Times: 69
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 13
+	Date: 2016-01-02 ; Times: 15
+	Date: 2016-01-03 ; Times: 4
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-14 ; Times: 3
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 5
+	Date: 2016-01-25 ; Times: 6
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 3
+	Date: 2016-01-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Temnurus temnurus" ; Times: 1
+	Query: "family:Acipenseridae country:"United States"" ; Times: 1
+	Query: "Anabacerthia striaticollis" ; Times: 1
+	Query: ""Diglossa cyanea"" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: ""Coeligena torquata"" ; Times: 1
+	Query: "family:Cottidae country:"United States"" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: "skin genus: Haplospiza sex:male" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "family:Clupeidae country:"United States"" ; Times: 1
+	Query: ""Masius chrysopterus"" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: ""Tangara vassorii"" ; Times: 1
+	Query: "Boidae tissue:1" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: ""Pachyramphus versicolor"" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: ""Hemispingus superciliaris"" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: ""Platyrinchus mystaceus"" ; Times: 1
+	Query: "felis pardus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: ""Xenops rutilans"" ; Times: 1
+	Query: "family:Percidae country:"United States"" ; Times: 1
+	Query: "family:Amblyopsidae country:"United States"" ; Times: 1
+	Query: ""Zonotrichia capensis"" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: ""Myioborus miniatus"" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: ""Thraupis cyanocephala"" ; Times: 1
+	Query: ""Trogon personatus"" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "skin genus: Tersina sex:male" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: ""Euphonia xanthogaster"" ; Times: 1
+	Query: "family:Percopsidae country:"United States"" ; Times: 1
+	Query: "Felis leo" ; Times: 1
+	Query: ""Lophotriccus pileatus"" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "skin genus: Lanio sex:male" ; Times: 1
+	Query: ""Contopus fumigatus"" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: ""Veniliornis nigriceps"" ; Times: 1
+	Query: ""Margarornis squamiger"" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: ""False Bay"" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "Felis uncia" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "Felis tigris" ; Times: 1
+	Query: ""Syndactyla rufosuperciliata"" ; Times: 1
+	Query: ""Pseudocolaptes boissonneautii"" ; Times: 1
+	Query: ""Cyclarhis gujanensis"" ; Times: 1
+	Query: "skin genus: Coryphospingus sex:male" ; Times: 1
+	Query: ""Tangara xanthocephala"" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "skin genus: Melanodera sex:male" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 86
+Total number of records downloaded: 816
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 153
+Total number of records retrieved from searches: 428
+Number of download events that retrieved data from the resource: 86
+Total number of records downloaded: 816
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
