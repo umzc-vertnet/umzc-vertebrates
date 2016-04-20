@@ -1,0 +1,142 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 360
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 33
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-01 ; Times: 4
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 4
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 11
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "Charmosyna josefinae" ; Times: 1
+	Query: "class:Aves country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1850" ; Times: 1
+	Query: "type:specimen specificepithet:platyrhynchos genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Strix type:specimen country:&#34;guatemala&#34; AND (NOT nigrolineata NOT occidentalis NOT virgata)" ; Times: 1
+	Query: "sylvietta ruficapilla" ; Times: 1
+	Query: "type:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "coracina melanoptera" ; Times: 1
+	Query: "megalaima zeylanica" ; Times: 3
+	Query: "TOXODON" ; Times: 1
+	Query: "diglossa sittoides" ; Times: 1
+	Query: "Gymnomyza samoensis" ; Times: 1
+	Query: "centropus toulou" ; Times: 1
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "genus:felis family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Celeus flavescens brazil" ; Times: 1
+	Query: "eudynamys scolopacea india" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "cuculus canorus india" ; Times: 2
+	Query: "Coracina newtoni" ; Times: 2
+	Query: "Campephilus robustus brazil" ; Times: 1
+	Query: "megalaima viridis" ; Times: 1
+	Query: "genus:Tachuris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "anoa" ; Times: 1
+	Query: "Microgale cowani" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "Actophilornis albinucha HOLOTYPE" ; Times: 1
+	Query: "genus:Moschus" ; Times: 1
+	Query: "dieffenbachi" ; Times: 1
+	Query: "taccocua leschenaultii india" ; Times: 1
+	Query: "tyto alba india" ; Times: 1
+	Query: "Strix type:specimen country:&#34;guatemala&#34; AND (NOT nigrolineata NOT occidentalis NOT virgata NOT nigrolineatum NOT virgatum)" ; Times: 1
+	Query: "country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 2
+	Query: "Camptorhynchus" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "Oriolus xanthornus" ; Times: 1
+	Query: "clamator jacobinus india" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 230 download events in this period)
+Total number of records downloaded: 649
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 40
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-10 ; Times: 11
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Actinopterygii country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 33
+	Query: "babyrousa" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "parula americana" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Babyrousa" ; Times: 2
+	Query: "anoa" ; Times: 1
+
+
+End of report.
