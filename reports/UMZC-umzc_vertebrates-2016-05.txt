@@ -1,0 +1,186 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 371
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 58
+	Country: Netherlands ; Times: 5
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Japan ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Malaysia ; Times: 2
+	Country: China ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 8
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-11 ; Times: 8
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 27
+	Date: 2016-05-30 ; Times: 7
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 4
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-26 ; Times: 7
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-25 ; Times: 3
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lonchura nana" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "Cygnus olor tissue:1" ; Times: 1
+	Query: "specificepithet:janira genus:Delphinus" ; Times: 3
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "type:specimen specificepithet:sylviolus genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Mesohippus" ; Times: 1
+	Query: "nipponia nippon" ; Times: 5
+	Query: "specificepithet:longimana genus:Megaptera" ; Times: 5
+	Query: "crinifer" ; Times: 1
+	Query: "Samotherium" ; Times: 1
+	Query: "threskiornis bernieri" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 7
+	Query: "Plegadis falcinellus tissue:1" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 2
+	Query: "phalacrocorax harrisi" ; Times: 1
+	Query: "lerwa" ; Times: 1
+	Query: "Coracopsis tissue:1" ; Times: 1
+	Query: "specificepithet:sibbaldii genus:Balaenoptera" ; Times: 4
+	Query: "os penis" ; Times: 1
+	Query: "Trionyx triunguis" ; Times: 3
+	Query: "Dimetrodon" ; Times: 1
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "claravis godefrida" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 2
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "Dinictis" ; Times: 2
+	Query: "scutigera" ; Times: 1
+	Query: "ailuronyx" ; Times: 3
+	Query: "Campephilus principalis" ; Times: 5
+	Query: "Anguis" ; Times: 3
+	Query: "Turdoides earlei" ; Times: 2
+	Query: "alligator sinensis" ; Times: 2
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "cylindrophiidae" ; Times: 2
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "Treron Tanzania" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "genus:Xenopus specificepithet:tropicalis" ; Times: 2
+	Query: "64234" ; Times: 1
+	Query: "micaria" ; Times: 1
+	Query: "Caloramphus fuliginosus sarawak" ; Times: 1
+	Query: "Hippopotamus lemerlei" ; Times: 1
+	Query: "dugong dugon tissue:1" ; Times: 1
+	Query: "numenius borealis" ; Times: 1
+	Query: "Mustelidae (Mellivora)" ; Times: 1
+	Query: "foxhall" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "asio madagascariensis" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 327 download events in this period)
+Total number of records downloaded: 969
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: China ; Times: 8
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 20
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 4
+	Date: 2016-05-19 ; Times: 5
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-02 ; Times: 2
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-12 ; Times: 3
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 13
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "Lacerta vivipara" ; Times: 2
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Pionus senilis" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "stegonotus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Alligator sinensis" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "Timaliidae" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "phyllomedusa sauvagii" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "python molurus" ; Times: 1
+
+
+End of report.
