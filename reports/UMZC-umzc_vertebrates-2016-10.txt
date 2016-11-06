@@ -1,0 +1,57 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 136
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-11 ; Times: 1
+	Date: 2016-10-24 ; Times: 1
+	Date: 2016-10-03 ; Times: 18
+	Date: 2016-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Numida meleagris 1" ; Times: 1
+	Query: "Anas formosa 1" ; Times: 1
+	Query: "Anser cygnoides 1" ; Times: 1
+	Query: "Anas poecilorhyncha 1" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 1
+	Query: "Aratinga holochlora 1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Poephila guttata 1" ; Times: 1
+	Query: "Estrilda astrild 1" ; Times: 1
+	Query: "Bufo mauritanicus 1" ; Times: 1
+	Query: "Coturnix japonica 1" ; Times: 1
+	Query: "Psittacula krameri 1" ; Times: 1
+	Query: "Aquila rapax 1" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 1
+	Query: "Columba guinea 1" ; Times: 1
+	Query: "Lacerta dugesii 1" ; Times: 1
+	Query: "Ursus americanus 1" ; Times: 1
+	Query: "Thryothorus euophrys " ; Times: 1
+	Query: "Dendrocygna autumnalis 1" ; Times: 1
+	Query: "Anas americana 1" ; Times: 1
+	Query: "Uraeginthus bengalus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
