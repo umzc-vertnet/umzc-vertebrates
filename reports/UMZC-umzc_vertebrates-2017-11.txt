@@ -1,0 +1,120 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 176
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 62
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 2
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 6
+	Date: 2017-11-29 ; Times: 20
+	Date: 2017-11-26 ; Times: 5
+	Date: 2017-11-27 ; Times: 18
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 7
+	Date: 2017-11-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Apteryx sex:Female" ; Times: 3
+	Query: "crocodylus skeleton niloticus" ; Times: 1
+	Query: "Mulloidichthys samoensis" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus year &gt;= 1835 year &lt;= 1900" ; Times: 3
+	Query: "genus:Apteryx sex:Female preparations:skeleton" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "Pipilo 1859" ; Times: 1
+	Query: "Mulloides samoensis" ; Times: 1
+	Query: "vntype:specimen genus:Orcaella" ; Times: 6
+	Query: "Coereba (Vincent)" ; Times: 1
+	Query: "Upeneus prayensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "specificepithet:cyaneovirens genus:erythrura class:aves" ; Times: 3
+	Query: "cryptobranchus cambridge" ; Times: 1
+	Query: "gallinago hardwickii" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "genus:Climacteris preparations:skeleton" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 2
+	Query: "Mulloidichthys flavolineatus" ; Times: 2
+	Query: "family:Aepyornithidae" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "Upeneus trifasciatus" ; Times: 2
+	Query: "Mustelidae skeleton Gulo gulo" ; Times: 1
+	Query: "&#34;cyaneus brevipes&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Orcaella" ; Times: 1
+	Query: "genus:Menura preparations:skeleton" ; Times: 1
+	Query: "coelestis order:Passeriformes" ; Times: 2
+	Query: "Mulloides flavolineatus" ; Times: 2
+	Query: "specificepithet:borealis genus:numenius" ; Times: 2
+	Query: "orcaella brevirostris" ; Times: 2
+	Query: "albatrus" ; Times: 1
+	Query: "class:reptilia locality:calcutta" ; Times: 2
+	Query: "Cacomantis sonneratii vntype:specimen" ; Times: 1
+	Query: "Crocodylus skeleton niloticus" ; Times: 1
+	Query: "genus:python country:&#34;india&#34;" ; Times: 4
+	Query: "&#34;caeruleus longirostris&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "genus:Crotalus catalognumber:5" ; Times: 2
+	Query: "egretta dimorpha" ; Times: 2
+	Query: "&#34;caeruleus hellmayri&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Scelorchilus albicollis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1101 download events in this period)
+Total number of records downloaded: 1259
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 7
+	Country: Brazil ; Times: 12
+	Country: Israel ; Times: 2
+	Country: United States ; Times: 9
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 2
+	Date: 2017-11-29 ; Times: 5
+	Date: 2017-11-26 ; Times: 12
+	Date: 2017-11-27 ; Times: 10
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "India Amphibia" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "Conirostrum cinereum" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "genus:Menura preparations:skeleton" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "ziphius" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "family:salmonidae" ; Times: 1
+	Query: "Agelastes meleagrides" ; Times: 2
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "genus:Terenura" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
