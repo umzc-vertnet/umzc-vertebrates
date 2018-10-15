@@ -1,0 +1,235 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 184
+Number of records retrieved in searches: 671
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 18
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 6
+	Country: India ; Times: 5
+	Country: France ; Times: 21
+	Country: United States ; Times: 95
+	Country: Australia ; Times: 7
+	Country: Slovakia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Paraguay ; Times: 5
+	Country: China ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 6
+	Date: 2017-12-16 ; Times: 7
+	Date: 2017-12-17 ; Times: 4
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-12 ; Times: 9
+	Date: 2017-12-13 ; Times: 4
+	Date: 2017-12-10 ; Times: 2
+	Date: 2017-12-11 ; Times: 49
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 3
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-26 ; Times: 6
+	Date: 2017-12-22 ; Times: 14
+	Date: 2017-12-21 ; Times: 6
+	Date: 2017-12-20 ; Times: 11
+	Date: 2017-12-05 ; Times: 5
+	Date: 2017-12-04 ; Times: 15
+	Date: 2017-12-07 ; Times: 13
+	Date: 2017-12-06 ; Times: 9
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-09 ; Times: 3
+	Date: 2017-12-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "sphaerodactylus cambridge" ; Times: 2
+	Query: "bos grunniens" ; Times: 2
+	Query: "Spalax typhlus" ; Times: 1
+	Query: "genus:Callaeas country:&#34;New Zealand&#34;" ; Times: 1
+	Query: "specificepithet:flava genus:Motacilla country:&#34;Sierra Leone&#34; continent:Africa" ; Times: 1
+	Query: "Mulloidichthys samoensis" ; Times: 1
+	Query: "specificepithet:chiguanco genus:Turdus" ; Times: 1
+	Query: "Pericrocotus erythropygius" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Atrichornis rufescens vntype:specimen" ; Times: 2
+	Query: "Mulloides samoensis" ; Times: 1
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "inostrancevia" ; Times: 1
+	Query: "mirafra cheniana" ; Times: 4
+	Query: "Tachycineta euchrysea" ; Times: 7
+	Query: "specificepithet:jocosus genus:pycnonotus year &gt;= 1850 year &lt;= 1930" ; Times: 4
+	Query: "porzana porzana hastissue:1" ; Times: 3
+	Query: "tigrisoma fasciatum" ; Times: 1
+	Query: "specificepithet:caribaea family:Rallidae" ; Times: 1
+	Query: "UMZC" ; Times: 1
+	Query: "ochraceus malaysia" ; Times: 1
+	Query: "vntype:specimen genus:Brachypteracias" ; Times: 1
+	Query: "ardeidae skull skeleton egretta sacra" ; Times: 2
+	Query: "tachycineta euchrysea" ; Times: 1
+	Query: "Knipolegus Paraguay" ; Times: 2
+	Query: "Rhynchotus" ; Times: 1
+	Query: "Atrichornis rufescens vntype:specimen institutioncode:UMZC" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "turdus poliocephalus samoensis" ; Times: 2
+	Query: "Malacoptila striata" ; Times: 1
+	Query: "Catharopeza vntype:specimen" ; Times: 3
+	Query: "genus:hyaena country:&#34;kenya&#34;" ; Times: 1
+	Query: "Phoenix Zoo" ; Times: 7
+	Query: "Lutra sumatrana" ; Times: 1
+	Query: "Dendroaspis angusticeps" ; Times: 2
+	Query: "Upeneus prayensis" ; Times: 1
+	Query: "sitta azurea" ; Times: 2
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "specificepithet:gryphus genus:Vultur year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "vntype:specimen genus:Uratelornis" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "Glaucidium siju" ; Times: 1
+	Query: "knipolegus lophotes" ; Times: 2
+	Query: "Upeneus trifasciatus" ; Times: 2
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "Mytilus edulis" ; Times: 1
+	Query: "hirundo leucosoma" ; Times: 2
+	Query: "Chionis minor" ; Times: 8
+	Query: "Sarothrura rufa" ; Times: 1
+	Query: "Pterygoplichthys pardalis" ; Times: 1
+	Query: "mirafra affinis" ; Times: 2
+	Query: "lycaenops" ; Times: 3
+	Query: "ardeidae skeleton skull egretta sacra" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "ardeidae skeleton egretta sacra" ; Times: 1
+	Query: "specificepithet:parkinsoni genus:Procellaria hastissue:1" ; Times: 1
+	Query: "Dasyatis pastinaca" ; Times: 2
+	Query: "Bufonidae institutioncode:UMZC" ; Times: 1
+	Query: "genus:hyaena country:&#34;kenya&#34; institutioncode:UMZC" ; Times: 2
+	Query: "genus=Sphenodon hastissue=1" ; Times: 2
+	Query: "Chiloscyllium indicum" ; Times: 2
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "cicurina" ; Times: 1
+	Query: "Leucopeza vntype:specimen" ; Times: 1
+	Query: "genus:Callaeas country:&#34;New Zealand&#34; year &lt;= 1860" ; Times: 2
+	Query: "pallidus malaysia" ; Times: 1
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "specificepithet:exulans genus:Diomedea hastissue:1" ; Times: 1
+	Query: "Amphiprion chrysogaster" ; Times: 2
+	Query: "Pitta sordida" ; Times: 2
+	Query: "Trionyx hurum" ; Times: 2
+	Query: "Amphiprion bicinctus" ; Times: 2
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Bungarus ceylonicus" ; Times: 3
+	Query: "Acrocephalus luscinia" ; Times: 3
+	Query: "specificepithet:palpebrata genus:Phoebetria hastissue:1" ; Times: 1
+	Query: "cacomantis merulinus vntype:specimen country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 1
+	Query: "genus:Heteralocha" ; Times: 2
+	Query: "capybara" ; Times: 1
+	Query: "mandelli" ; Times: 1
+	Query: "Myliobatis aquila" ; Times: 2
+	Query: "Atrichornis rufescens" ; Times: 2
+	Query: "Mulloidichthys flavolineatus" ; Times: 3
+	Query: "order:Xenarthra country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "pallidus singapore" ; Times: 2
+	Query: "Amphiprion percula" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "77075" ; Times: 1
+	Query: "Mulloides flavolineatus" ; Times: 2
+	Query: "genus:Sphyrna" ; Times: 4
+	Query: "trichys" ; Times: 1
+	Query: "dilophus" ; Times: 1
+	Query: "ardeidae skeleton ardea goliath" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "Heterodontus galeatus" ; Times: 2
+	Query: "genus:Kachuga country:&#34;India&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:8" ; Times: 1
+	Query: "genus:Crotalus catalognumber:7" ; Times: 1
+	Query: "genus:Crotalus catalognumber:6" ; Times: 2
+	Query: "genus:Crotalus catalognumber:4" ; Times: 2
+	Query: "genus:Crotalus catalognumber:3" ; Times: 1
+	Query: "genus:Crotalus catalognumber:2" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 674 download events in this period)
+Total number of records downloaded: 864
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 16
+	Country: China ; Times: 2
+	Country: Paraguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-27 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-01 ; Times: 2
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-30 ; Times: 1
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-09 ; Times: 4
+	Date: 2017-12-08 ; Times: 1
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "ophiodes" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "Aphelocoma ultramarina" ; Times: 1
+	Query: "Bufonidae institutioncode:UMZC" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "(e.p. ramsay)" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 2
+	Query: "Atrichornis rufescens vntype:specimen" ; Times: 2
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "Dilophus" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "order:cingulata country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Rockingham Bay vntype:specimen" ; Times: 2
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Bungarus ceylonicus" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "Knipolegus Paraguay" ; Times: 1
+	Query: "Pitta sordida" ; Times: 1
+
+
+End of report.
