@@ -1,0 +1,337 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 398
+Number of records retrieved in searches: 957
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Netherlands ; Times: 28
+	Country: Denmark ; Times: 1
+	Country: Poland ; Times: 2
+	Country: United States ; Times: 278
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 6
+	Country: Russia ; Times: 1
+	Country: South Africa ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Cyprus ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 6
+	Date: 2018-08-31 ; Times: 5
+	Date: 2018-08-18 ; Times: 4
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-14 ; Times: 4
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 174
+	Date: 2018-08-11 ; Times: 3
+	Date: 2018-08-02 ; Times: 15
+	Date: 2018-08-08 ; Times: 9
+	Date: 2018-08-03 ; Times: 5
+	Date: 2018-08-17 ; Times: 3
+	Date: 2018-08-27 ; Times: 14
+	Date: 2018-08-26 ; Times: 5
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-09 ; Times: 19
+	Date: 2018-08-22 ; Times: 16
+	Date: 2018-08-21 ; Times: 7
+	Date: 2018-08-20 ; Times: 9
+	Date: 2018-08-05 ; Times: 29
+	Date: 2018-08-04 ; Times: 5
+	Date: 2018-08-07 ; Times: 5
+	Date: 2018-08-06 ; Times: 17
+	Date: 2018-08-01 ; Times: 23
+	Date: 2018-08-29 ; Times: 4
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 2
+	Query: "genus:Rhodonessa" ; Times: 1
+	Query: "vntype:specimen specificepithet:livingstonei genus:erythrocercus year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "Raphus" ; Times: 4
+	Query: "sterna aleutica" ; Times: 2
+	Query: "acanthodactylus cantoris" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Numenius institutioncode:UMZC" ; Times: 1
+	Query: "gammarus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Pezophaps" ; Times: 1
+	Query: "Balistes rectangulus" ; Times: 1
+	Query: "Balistes aculeatus" ; Times: 1
+	Query: "Haptodus" ; Times: 2
+	Query: "specificepithet:principalis genus:Campephilus" ; Times: 1
+	Query: "swift UK" ; Times: 2
+	Query: "34645" ; Times: 1
+	Query: "Balistes forcipatus" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 3
+	Query: "vntype:specimen genus:Colinus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:vetula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vimba vimba" ; Times: 1
+	Query: "61905" ; Times: 2
+	Query: "Goura victoria" ; Times: 2
+	Query: "Locustella naevia" ; Times: 2
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:pitta year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 3
+	Query: "Saltator coerulescens superciliaris" ; Times: 1
+	Query: "Nativitatis Christmas island" ; Times: 1
+	Query: "60030" ; Times: 1
+	Query: "class:AVES locality:dondo" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 2
+	Query: "69084" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "vntype:specimen specificepithet:souzae genus:lanius year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "vntype:specimen specificepithet:poicilotis genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "69162" ; Times: 1
+	Query: "genus:Proteus" ; Times: 2
+	Query: "specificepithet:cinerea genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "NESOSPINGUS" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "rhinoplax vigil" ; Times: 1
+	Query: "vntype:specimen specificepithet:poicilotis genus:HYlophilus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "burkii India" ; Times: 1
+	Query: "serrasalmus serrulatus" ; Times: 1
+	Query: "Goura sclaterii" ; Times: 2
+	Query: "numenius tenuirostris" ; Times: 28
+	Query: "crax alberti" ; Times: 2
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 2
+	Query: "microparra" ; Times: 1
+	Query: "Sphenodon" ; Times: 2
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:durban country:&#34;South Africa&#34;" ; Times: 2
+	Query: "genus:Phyllotis specificepithet:gerbillus" ; Times: 4
+	Query: "genus:Indicator hastissue:1" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "specificepithet:cataphractus family:Crocodylidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:thoracicus genus:Hylophilus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Naja melanoleuca" ; Times: 2
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 2
+	Query: "genus:Leptodactylodon specificepithet:ovatus" ; Times: 1
+	Query: "class:AVES locality:kloof" ; Times: 3
+	Query: "colinus virginianus country:&#34;jamaica&#34;" ; Times: 2
+	Query: "Mirafra cantillans India" ; Times: 3
+	Query: "specificepithet:cataphractus family:crocodylidae" ; Times: 1
+	Query: "porphyrio indicus" ; Times: 1
+	Query: "porphyrio viridis" ; Times: 2
+	Query: "araneae" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "Eryx johnii" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "specificepithet:epops genus:Upupa hastissue:1" ; Times: 2
+	Query: "Penaeus monodon" ; Times: 1
+	Query: "vntype:specimen specificepithet:poliocephalus genus:cuculus year &gt;= 1855 year &lt;= 2005" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "Erythrotriorchis radiatus" ; Times: 4
+	Query: "xenicus longipes" ; Times: 3
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "gallirallus australis" ; Times: 1
+	Query: "specificepithet:borealis genus:Numenius institutioncode:UMZC" ; Times: 1
+	Query: "genus:lampornis country:&#34;panama&#34;" ; Times: 1
+	Query: "specificepithet:velata genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "colinus virginianus country:&#34;Jamaica&#34;" ; Times: 1
+	Query: "Garrulax cachinnans" ; Times: 1
+	Query: "rhinoceros unicornis" ; Times: 1
+	Query: "Glaucidium capense" ; Times: 4
+	Query: "family:indicatoridae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:cheniana genus:mirafra year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "heteralocha" ; Times: 2
+	Query: "xenicus gilviventris" ; Times: 1
+	Query: "specificepithet:blandingii genus:Emys hassex:1" ; Times: 1
+	Query: "Balistes undulatus" ; Times: 1
+	Query: "vntype:specimen genus:vireo class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Cyclarhis class:Aves country:&#34;Brazil&#34; institutioncode:UMZC" ; Times: 1
+	Query: "Lanius Kashmir" ; Times: 2
+	Query: "latonia" ; Times: 2
+	Query: "cephalopoda" ; Times: 1
+	Query: "genus:Emys OR Actinemys sex:male OR female" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "nesospingus" ; Times: 1
+	Query: "Bitis atropos" ; Times: 1
+	Query: "Balistes niger" ; Times: 1
+	Query: "didunculus" ; Times: 3
+	Query: "genus:Helminthophis" ; Times: 1
+	Query: "vntype:specimen genus:Muscipipra class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Testudo graeca" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 2
+	Query: "Puffinus mauretanicus" ; Times: 1
+	Query: "Metopidius indicus India" ; Times: 2
+	Query: "genus:rhipidura country:&#34;new zealand&#34;" ; Times: 1
+	Query: "Vanellus cinereus India" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 2
+	Query: "genus:Coelodonta specificepithet:antiquitatis" ; Times: 3
+	Query: "Plectrophenax nivalis insulae" ; Times: 1
+	Query: "bivalve" ; Times: 1
+	Query: "Turdoides gymnogenys" ; Times: 1
+	Query: "Sterna aleutica" ; Times: 178
+	Query: "Eudyptula albosignata" ; Times: 1
+	Query: "zoonavena" ; Times: 2
+	Query: "Araneae" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Xolmis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:robertsi genus:prinia year &gt;= 1875 year &lt;= 2005" ; Times: 1
+	Query: "henicophaps" ; Times: 1
+	Query: "Goura scheepmakeri" ; Times: 3
+	Query: "Cuculus crassirostris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 1416 download events in this period)
+Total number of records downloaded: 2336
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Netherlands ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Mexico ; Times: 33
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 34
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Spain ; Times: 5
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-19 ; Times: 8
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 5
+	Date: 2018-08-14 ; Times: 7
+	Date: 2018-08-15 ; Times: 8
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 6
+	Date: 2018-08-10 ; Times: 3
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-27 ; Times: 4
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 4
+	Date: 2018-08-09 ; Times: 12
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-21 ; Times: 4
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Numenius americanus" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Saltator coerulescens superciliaris" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Plecotus auritus" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma sex:male OR female" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Dugong dugon" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Locustella naevia" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Turdoides gymnogenys" ; Times: 1
+	Query: "genus:Proteus" ; Times: 1
+	Query: "falco biarmicus" ; Times: 1
+	Query: "cancer" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "oriturus superciliosus" ; Times: 1
+	Query: "specificepithet:rhodomystax genus:Leptodactylus" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "genus:Apalone OR Trionyx sex:male OR female" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "genus:Glaucidium country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "Thamnophilus nigrocinereus" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "sterna aleutica" ; Times: 3
+	Query: "specificepithet:cataphractus family:crocodylidae" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "genus:Emydoidea OR Emys sex:male OR female" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "family:Bufonidae continent:Africa AND (NOT bufo)" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "colinus virginianus country:&#34;jamaica&#34;" ; Times: 2
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "genus:Actinemys OR Emys sex:male OR female" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Erythrotriorchis radiatus" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "genus:Helminthophis" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "Sterna aleutica" ; Times: 2
+	Query: "topaza pella" ; Times: 1
+	Query: "numenius tenuirostris" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Hemignathus virens" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "cephalopoda" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Saltator orenocensis" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "recordedby:Baron" ; Times: 1
+
+
+End of report.
