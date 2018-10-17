@@ -1,0 +1,242 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 167
+Number of records retrieved in searches: 740
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 6
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 9
+	Country: Poland ; Times: 1
+	Country: India ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: Malta ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Cyprus ; Times: 2
+	Country: United States ; Times: 96
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 36
+	Date: 2018-09-26 ; Times: 14
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 8
+	Date: 2018-09-22 ; Times: 3
+	Date: 2018-09-05 ; Times: 7
+	Date: 2018-09-08 ; Times: 3
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 8
+	Date: 2018-09-10 ; Times: 6
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-15 ; Times: 4
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-17 ; Times: 6
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-18 ; Times: 13
+	Date: 2018-09-02 ; Times: 4
+	Date: 2018-09-03 ; Times: 7
+	Date: 2018-09-20 ; Times: 14
+	Date: 2018-09-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tenuirostris genus:Numenius" ; Times: 2
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "Pterophanes" ; Times: 3
+	Query: "country:&#34;British Honduras&#34;" ; Times: 1
+	Query: "genus:Ceratophora" ; Times: 1
+	Query: "cryptoprocta" ; Times: 2
+	Query: "vntype:specimen specificepithet:cristatellus genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "neopelma aurifrons" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "psophia crepitans hastissue:1" ; Times: 1
+	Query: "turacoena manadensis" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:UMZC" ; Times: 2
+	Query: "specificepithet:media genus:Gallinago hastissue:1" ; Times: 2
+	Query: "Jacamaralcyon tridactyla" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 4
+	Query: "vntype:specimen genus:notiochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "genus:Moschus" ; Times: 1
+	Query: "aurelia aurita" ; Times: 3
+	Query: "vntype:specimen specificepithet:chrysops genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Trichechus inunguis" ; Times: 1
+	Query: "specificepithet:macrodactyla genus:Gallinago hastissue:1" ; Times: 1
+	Query: "specificepithet:capensis genus:Georychus" ; Times: 4
+	Query: "vntype:specimen specificepithet:caeruleus genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "specificepithet:monedula genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "Nativitatis Christmas" ; Times: 1
+	Query: "&#34;Pipra pipra&#34; vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus: rhamphorhynchus" ; Times: 1
+	Query: "specificepithet:macrotis genus:Idiurus" ; Times: 4
+	Query: "specificepithet:sumatrensis genus:Rhizomys" ; Times: 2
+	Query: "specificepithet:anais genus:mino" ; Times: 1
+	Query: "amazona dufresniana" ; Times: 4
+	Query: "specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "genus:torgos" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:basileuterus" ; Times: 1
+	Query: "Constanta" ; Times: 1
+	Query: "specificepithet:nemoricola genus:Gallinago" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 7
+	Query: "Semioptera" ; Times: 3
+	Query: "falkner" ; Times: 1
+	Query: "Hyliota australis" ; Times: 4
+	Query: "genus:rhipidura class:aves (samoa)" ; Times: 1
+	Query: "macropygia emiliana" ; Times: 2
+	Query: "specificepithet:badius genus:Cannomys" ; Times: 2
+	Query: "leucopeza" ; Times: 1
+	Query: "octopus" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 2
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "cryptobranchus alleghaniensis" ; Times: 2
+	Query: "Dispholidus typus" ; Times: 1
+	Query: "genus:Phyllotis specificepithet:gerbillus" ; Times: 1
+	Query: "specificepithet:corone genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "genus:Pseudonestor class:Aves" ; Times: 3
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:surdaster genus:Pedetes" ; Times: 2
+	Query: "specificepithet:himalayensis genus:dendrocopos" ; Times: 2
+	Query: "Psittirostra psittacea vntype:specimen" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 2
+	Query: "passerina chiapensis" ; Times: 1
+	Query: "Phylloscartes eximius" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 2
+	Query: "specificepithet:solitaria genus:Gallinago" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "Rhinoptilus bitorquatus" ; Times: 1
+	Query: "strongylocentrotus" ; Times: 1
+	Query: "specificepithet:beecrofti genus:Anomalurus" ; Times: 8
+	Query: "Ancistrodon" ; Times: 1
+	Query: "specificepithet:fuscocinereus genus:lipaugus" ; Times: 1
+	Query: "specificepithet:cotinga genus:cotinga" ; Times: 1
+	Query: "ceratophora" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "specificepithet:stenura genus:Gallinago hastissue:1" ; Times: 1
+	Query: "specificepithet:fiber genus:Castor" ; Times: 4
+	Query: "Geobates vntype:specimen" ; Times: 1
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "specificepithet:conspicillatus genus:basileuterus" ; Times: 1
+	Query: "melanodera xanthogramma" ; Times: 1
+	Query: "specificepithet:giganteus genus:Priodontes" ; Times: 4
+	Query: "ninox superciliaris" ; Times: 1
+	Query: "vntype:specimen genus:xenicus" ; Times: 1
+	Query: "family:Chelonidae" ; Times: 1
+	Query: "family:Didelphidae country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "Mus macleari" ; Times: 5
+	Query: "genus:Coelodonta specificepithet:antiquitatis" ; Times: 1
+	Query: "ostrea edulis" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "specificepithet:pelii genus:Anomalurus" ; Times: 7
+	Query: "ailuroedus stonii" ; Times: 5
+	Query: "Tauraco corythaix phoebus" ; Times: 1
+	Query: "Accipiter chilensis" ; Times: 1
+	Query: "specificepithet:darjellensis genus:dendrocopos" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 846 download events in this period)
+Total number of records downloaded: 509
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: United States ; Times: 27
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-27 ; Times: 5
+	Date: 2018-09-21 ; Times: 3
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 12
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "cryptobranchus alleghaniensis" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "Herpestes auropunctatus" ; Times: 1
+	Query: "psophia crepitans hastissue:1" ; Times: 1
+	Query: "Leptophis mexicanus mexicanus" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "rana boylii" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "Drymobius margaritiferus margaritiferus" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "family:Rhinocerotidae continent:North America isfossil:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "MONOPELTIS" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
