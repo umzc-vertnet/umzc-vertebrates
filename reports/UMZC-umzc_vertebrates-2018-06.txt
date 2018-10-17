@@ -1,0 +1,299 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 302
+Number of records retrieved in searches: 1395
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 8
+	Country: Russia ; Times: 4
+	Country: Australia ; Times: 27
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 6
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 7
+	Country: United States ; Times: 152
+	Country: Netherlands ; Times: 29
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 19
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: New Zealand ; Times: 9
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-05 ; Times: 15
+	Date: 2018-06-04 ; Times: 4
+	Date: 2018-06-03 ; Times: 9
+	Date: 2018-06-02 ; Times: 3
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 24
+	Date: 2018-06-24 ; Times: 11
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 5
+	Date: 2018-06-21 ; Times: 24
+	Date: 2018-06-20 ; Times: 10
+	Date: 2018-06-09 ; Times: 4
+	Date: 2018-06-08 ; Times: 23
+	Date: 2018-06-23 ; Times: 11
+	Date: 2018-06-22 ; Times: 5
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 13
+	Date: 2018-06-12 ; Times: 6
+	Date: 2018-06-13 ; Times: 13
+	Date: 2018-06-14 ; Times: 10
+	Date: 2018-06-15 ; Times: 29
+	Date: 2018-06-16 ; Times: 15
+	Date: 2018-06-17 ; Times: 4
+	Date: 2018-06-18 ; Times: 16
+	Date: 2018-06-30 ; Times: 13
+	Date: 2018-06-29 ; Times: 7
+	Date: 2018-06-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Solenodontidae" ; Times: 1
+	Query: "cyanoptila cumatilis" ; Times: 2
+	Query: "95500" ; Times: 1
+	Query: "CAVOLINIA" ; Times: 3
+	Query: "Chlamydoselachus head" ; Times: 5
+	Query: "65362" ; Times: 1
+	Query: "A. bernieri" ; Times: 2
+	Query: "(Jacutinga)" ; Times: 2
+	Query: "genus:euphractus" ; Times: 1
+	Query: "deltae" ; Times: 1
+	Query: "enicurus velatus" ; Times: 1
+	Query: "Agapornis lilianae " ; Times: 16
+	Query: "specificepithet:gaurus genus:Bos" ; Times: 2
+	Query: "Naseus brevirostris" ; Times: 2
+	Query: "Atrichornis rufescens vntype:specimen" ; Times: 1
+	Query: "auduboni hastypestatus:1" ; Times: 3
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 1
+	Query: "turdoides subrufus" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Naso unicornis" ; Times: 2
+	Query: "Naso sp." ; Times: 2
+	Query: "genus:Notiomystis" ; Times: 2
+	Query: "Terpsiphone bourbonnensis desolata" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 2
+	Query: "vntype:specimen genus:Alectrurus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Procellaria parkinsoni" ; Times: 2
+	Query: "dicrurus macrocercus pakistan" ; Times: 2
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "papio anubis" ; Times: 2
+	Query: "Schistochlamys ruficapillus" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 7
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 7
+	Query: "copsychus stricklandii" ; Times: 6
+	Query: "hastissue:1 tringa totanus" ; Times: 1
+	Query: "vntype:specimen (Cnemiornis calcitrans)" ; Times: 1
+	Query: "specificepithet:aucklandica genus:Anas" ; Times: 3
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "institutioncode:UMZC hastissue:1" ; Times: 7
+	Query: "Naso lituratus" ; Times: 3
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "myophonus glaucinus" ; Times: 7
+	Query: "70092" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "acridotheres cinereus" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Phalacrocorax harrisi )" ; Times: 1
+	Query: "vntype:specimen country:&#34;Trinidad and Tobago&#34; ( magnirostris)" ; Times: 1
+	Query: "thalasseus maximus albididorsalis" ; Times: 3
+	Query: "modigliani" ; Times: 1
+	Query: "appendages" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "Procellaria parkinsoni hastissue:1" ; Times: 1
+	Query: "monticola explorator" ; Times: 1
+	Query: "priodontes" ; Times: 1
+	Query: "humblotia flavirostris" ; Times: 4
+	Query: "genus:ptilocercus" ; Times: 1
+	Query: "95780" ; Times: 5
+	Query: "specificepithet:cincta class:Aves country:&#34;New Zealand&#34;" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "vntype:specimen preparations:skin (Strigops habroptilus)" ; Times: 1
+	Query: "basilornis celebensis" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 2
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "genus:Acanthisitta" ; Times: 1
+	Query: "tangara fastuosa" ; Times: 1
+	Query: "Campylorhynchus turdinus unicolor" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Apteryx haastii)" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "Anomalurus beecrofti" ; Times: 2
+	Query: "family:Agamidae locality:New Guinea" ; Times: 1
+	Query: "myadestes myadestinus" ; Times: 3
+	Query: "Terpsiphone bourbonnensis" ; Times: 1
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "margaroperdix" ; Times: 2
+	Query: "tetraspis" ; Times: 11
+	Query: "proteus anguinus" ; Times: 2
+	Query: "gilbertii" ; Times: 1
+	Query: "myophonus insularis" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:UMZC" ; Times: 1
+	Query: "genus:calyptura" ; Times: 1
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Heteralocha" ; Times: 2
+	Query: "enodes erythrophris" ; Times: 1
+	Query: "numenius borealis" ; Times: 23
+	Query: "Garrulax cachinnans" ; Times: 1
+	Query: "Acanthurus nigros" ; Times: 1
+	Query: "Gehyra vorax" ; Times: 1
+	Query: "trichechus senegalensis" ; Times: 11
+	Query: "lamprotornis bailundensis" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 2
+	Query: "Coereba vntype:specimen (Croix)" ; Times: 2
+	Query: "genus:Calicalicus preparations:skin" ; Times: 1
+	Query: "gavialis gangeticus" ; Times: 2
+	Query: "Adapis" ; Times: 4
+	Query: "progne modesta" ; Times: 2
+	Query: "streptocitta albicollis" ; Times: 1
+	Query: "vntype:specimen preparations:skin (Gallirallus australis)" ; Times: 1
+	Query: "specificepithet:rufobrachium genus:heliosciurus" ; Times: 2
+	Query: "specificepithet:cataphractus genus:crocodylus" ; Times: 9
+	Query: "56785" ; Times: 1
+	Query: "Typhlonectes compressicauda" ; Times: 1
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "leucopeza semperi" ; Times: 1
+	Query: "genus:grayia country:&#34;ghana&#34;" ; Times: 3
+	Query: "genus:Turnagra" ; Times: 2
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 2
+	Query: "anas chlorotis" ; Times: 2
+	Query: "Numenius tenuirostris" ; Times: 2
+	Query: "Coereba vntype:specimen (Croix newton)" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "Bellamya" ; Times: 1
+	Query: "himantopus himantopus leucocephalus year &lt;= 1950" ; Times: 3
+	Query: "vntype:specimen preparations:skin (Eudyptes schlegeli)" ; Times: 1
+	Query: "genus:Ptilocercus" ; Times: 1
+	Query: "genus:Plegadis family:Threskiornithidae class:Aves continent:Africa" ; Times: 2
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Alectrurus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "dicrurus macrocercus india" ; Times: 1
+	Query: "bear scapula" ; Times: 1
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 1169 download events in this period)
+Total number of records downloaded: 1352
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 30
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 7
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 3
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 4
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-15 ; Times: 4
+	Date: 2018-06-16 ; Times: 4
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 9
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Sooglossidae" ; Times: 1
+	Query: "papio anubis" ; Times: 2
+	Query: "Carduelis flammea" ; Times: 3
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "chiromantis rufescens" ; Times: 1
+	Query: "Acanthis cabaret" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "gavialis gangeticus" ; Times: 1
+	Query: "&#34;Malapterurus beninensis&#34;" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "oriturus" ; Times: 1
+	Query: "institutioncode:UMZC hastissue:1" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "papio anubis vntype:specimen" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "anthus correndera" ; Times: 1
+	Query: "himantopus himantopus leucocephalus year &lt;= 1950" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "vntype:specimen class:aves locality:sardinia" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "vntype:specimen specificepithet:anubis genus:Papio" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "order:Caudata lifestage:egg" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "melanerpes chrysogenys" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "family:Chamaeleonidae institutioncode:UMZC" ; Times: 1
+	Query: "picoides arcticus" ; Times: 1
+	Query: "valliceps" ; Times: 1
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "alces alces" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "proteus anguinus" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
