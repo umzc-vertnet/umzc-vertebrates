@@ -1,0 +1,305 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 332
+Number of records retrieved in searches: 1198
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: India ; Times: 8
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 49
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 27
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Bosnia and Herzegovina ; Times: 2
+	Country: Peru ; Times: 27
+	Country: Greece ; Times: 3
+	Country: Paraguay ; Times: 2
+	Country: Cyprus ; Times: 2
+	Country: Taiwan ; Times: 2
+	Country: United States ; Times: 165
+	Country: Brazil ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 7
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-30 ; Times: 2
+	Date: 2019-11-15 ; Times: 22
+	Date: 2019-11-14 ; Times: 6
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 17
+	Date: 2019-11-11 ; Times: 18
+	Date: 2019-11-10 ; Times: 19
+	Date: 2019-11-13 ; Times: 3
+	Date: 2019-11-12 ; Times: 16
+	Date: 2019-11-08 ; Times: 21
+	Date: 2019-11-27 ; Times: 10
+	Date: 2019-11-06 ; Times: 25
+	Date: 2019-11-07 ; Times: 27
+	Date: 2019-11-20 ; Times: 5
+	Date: 2019-11-21 ; Times: 5
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 4
+	Date: 2019-11-26 ; Times: 15
+	Date: 2019-11-09 ; Times: 11
+	Date: 2019-11-28 ; Times: 4
+	Date: 2019-11-29 ; Times: 9
+	Date: 2019-11-04 ; Times: 20
+	Date: 2019-11-05 ; Times: 22
+	Date: 2019-11-02 ; Times: 5
+	Date: 2019-11-03 ; Times: 30
+	Date: 2019-11-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Cyanicterus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Typhlonectes specificepithet:compressicauda" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Crocuta crocuta zimbabwe" ; Times: 1
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "haematopus unicolor" ; Times: 4
+	Query: "nesticus" ; Times: 1
+	Query: "python india" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Carcinus maenas" ; Times: 1
+	Query: "Riise aves" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "coturnicops novaeboracensis" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "vntype:specimen specificepithet:ornata genus:thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "Vimba vimba" ; Times: 1
+	Query: "specificepithet:cenchroides genus:Falco" ; Times: 2
+	Query: "Marmosa murina" ; Times: 2
+	Query: "pterodroma cervicalis" ; Times: 6
+	Query: "vntype:specimen genus:Andrias" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Oxynotus centrina vntype:specimen" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "specificepithet:indicator genus:Indicator hastissue:1" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 1
+	Query: "vntype:specimen specificepithet:episcopus class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "vntype:specimen specificepithet:cyanoptera genus:thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:ruppelli genus:Sylvia" ; Times: 1
+	Query: "Trogon aurantius" ; Times: 5
+	Query: "Abramis brama" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Mascarenotus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoptera genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "trogon aurantius" ; Times: 17
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 1
+	Query: "badius Assam" ; Times: 1
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34; recordedby:peet" ; Times: 1
+	Query: "vntype:specimen specificepithet:ornata genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "nonnula brunnea" ; Times: 14
+	Query: "dasyprocta variegata" ; Times: 3
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "specificepithet:scotops genus:eremomela country:&#34;Zimbabwe&#34;" ; Times: 1
+	Query: "Prosopeia personata" ; Times: 1
+	Query: "specificepithet:depressicornis genus:Bubalus basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "genus:platanista" ; Times: 1
+	Query: "Chasiempis sclateri" ; Times: 5
+	Query: "specificepithet:ardosiaceus genus:Falco" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 3
+	Query: "specificepithet:scotops genus:eremomela country:&#34;zimbabwe&#34;" ; Times: 1
+	Query: "homopus" ; Times: 2
+	Query: "Lutra lutra" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "Propithecus verreauxi" ; Times: 1
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "sandfly" ; Times: 3
+	Query: "specificepithet:derbianus genus:Taurotragus" ; Times: 3
+	Query: "vntype:specimen order:Caudata lifestage:larval" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 3
+	Query: "Lagostomus maximus" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 6
+	Query: "Aves Jammu UMZC" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "genus:Halicmetus" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 3
+	Query: "specificepithet:newtoni genus:Falco" ; Times: 1
+	Query: "genus:homopus" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 3
+	Query: "Melursus ursinus" ; Times: 5
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 8
+	Query: "Aphelocoma coerulescens 2015" ; Times: 2
+	Query: "Aphelocoma coerulescens 2014" ; Times: 6
+	Query: "60015" ; Times: 1
+	Query: "pisum" ; Times: 1
+	Query: "specificepithet:zoniventris genus:Falco" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "class:aves locality:kisii" ; Times: 2
+	Query: "Brachyramphus marmoratus 2014" ; Times: 5
+	Query: "Brachyramphus marmoratus 2015" ; Times: 5
+	Query: "Brachyramphus marmoratus 2016" ; Times: 8
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 6
+	Query: "Lagothrix lagotricha" ; Times: 1
+	Query: "specificepithet:superciliaris genus:bufo" ; Times: 2
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 2
+	Query: "Sceloglaux albifacies" ; Times: 1
+	Query: "Halichoerus grypus" ; Times: 1
+	Query: "Aves Jammu" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 4
+	Query: "Dasyprocta variegata" ; Times: 2
+	Query: "Physeter macrocephalus" ; Times: 1
+	Query: "specificepithet:cherrug genus:Falco hastissue:1" ; Times: 1
+	Query: "tupaia tana" ; Times: 1
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:rupicoloides genus:Falco" ; Times: 1
+	Query: "Marmosa rubra" ; Times: 1
+	Query: "genus:Coenocorypha" ; Times: 1
+	Query: "cetacean vertebrae" ; Times: 2
+	Query: "Falco sparverius vntype:specimen country:&#34;Cuba&#34;" ; Times: 1
+	Query: "Coccyzus americanus 2014" ; Times: 4
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "bourdilloni Rhopocichla" ; Times: 1
+	Query: "vntype:specimen locality:Spitzbergen" ; Times: 2
+	Query: "53460" ; Times: 2
+	Query: "vntype:specimen specificepithet:loricata class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "16053" ; Times: 1
+	Query: "(Tachyglossidae AND egg OR eggs)" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayana genus:Tangara class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "specificepithet:cyanoptera genus:Thraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Halicmetus" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "vntype:specimen genus:Nemosia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "raphus cucullatus" ; Times: 5
+	Query: "Agapornis lilianae" ; Times: 3
+	Query: "specificepithet:formosa genus:amandava class:aves" ; Times: 1
+	Query: "specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34;" ; Times: 1
+	Query: "Mycteria americana 2014" ; Times: 4
+	Query: "pachyptila turtur hastissue:1" ; Times: 1
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "Orthogeomys hispidus" ; Times: 1
+	Query: "specificepithet:rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:compsothraupis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Buteo platypterus AND Island" ; Times: 1
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brazil&#34; institutioncode:UMZC" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 8
+	Query: "19720" ; Times: 2
+	Query: "Charadrius melodus 2014" ; Times: 4
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Capra ibex" ; Times: 1
+	Query: "class:aves locality:kendu" ; Times: 5
+	Query: "Coendou pruinosus" ; Times: 2
+	Query: "Nonnula brunnea" ; Times: 10
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Petaurus australis" ; Times: 2
+	Query: "genus:Sylvia class:Aves country:&#34;Turkey&#34;" ; Times: 1
+	Query: "family:canidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "Leuciscus rutilus" ; Times: 1
+	Query: "Astacus astacus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 1367 download events in this period)
+Total number of records downloaded: 521
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Bosnia and Herzegovina ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: United States ; Times: 29
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 5
+	Date: 2019-11-18 ; Times: 3
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-10 ; Times: 4
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-12 ; Times: 4
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-07 ; Times: 6
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 4
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-29 ; Times: 2
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-05 ; Times: 4
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vini" ; Times: 1
+	Query: "vntype:specimen locality:Spitzbergen" ; Times: 1
+	Query: "Lepidóptera" ; Times: 1
+	Query: "class:AVES (KASHMIR) AND (NOT Jammu) AND (NOT Gilgit) AND (NOT Leh) AND (NOT Ladakh) AND (NOT Himachal) AND (NOT Ruphsu) AND (NOT Baltistan) AND (NOT Kargil)" ; Times: 1
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "Lerwa lerwa" ; Times: 1
+	Query: "vntype:specimen order:Caudata lifestage:egg" ; Times: 1
+	Query: "(Tachyglossidae AND egg OR eggs)" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "vntype:specimen specificepithet:Kirtlandii genus:dendroica country:&#34;United States&#34; recordedby:peet" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "specificepithet:depressicornis genus:Bubalus basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "panterpe insignis" ; Times: 1
+	Query: "sandfly" ; Times: 2
+	Query: "neophema chrysogaster" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "specificepithet:pilaris genus:Atalotriccus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "Tachyphonus phoenicius" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:indicator genus:Indicator hastissue:1" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "genus:Rhynochetos" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Buteo" ; Times: 1
+	Query: "genus:Babyrousa basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:castaneoventris genus:Lampornis sex:male" ; Times: 1
+	Query: "monachus tropicalis" ; Times: 1
+	Query: "scytalopus magellanicus" ; Times: 1
+	Query: "specificepithet:tenuis genus:Liolaemus" ; Times: 1
+	Query: "specificepithet:phasianellus family:Cuculidae" ; Times: 2
+	Query: "Aves Jammu UMZC" ; Times: 1
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+	Query: "anilius scytale" ; Times: 1
+
+
+End of report.
