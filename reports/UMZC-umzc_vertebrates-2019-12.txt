@@ -1,0 +1,239 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 182
+Number of records retrieved in searches: 675
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Turkey ; Times: 4
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 3
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 23
+	Country: India ; Times: 1
+	Country: United States ; Times: 113
+	Country: Austria ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 3
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-22 ; Times: 4
+	Date: 2019-12-29 ; Times: 3
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-18 ; Times: 9
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-11 ; Times: 5
+	Date: 2019-12-12 ; Times: 9
+	Date: 2019-12-13 ; Times: 4
+	Date: 2019-12-14 ; Times: 5
+	Date: 2019-12-16 ; Times: 10
+	Date: 2019-12-17 ; Times: 1
+	Date: 2019-12-30 ; Times: 18
+	Date: 2019-12-31 ; Times: 7
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-06 ; Times: 3
+	Date: 2019-12-05 ; Times: 32
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-03 ; Times: 11
+	Date: 2019-12-02 ; Times: 19
+	Date: 2019-12-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "regulus brazil" ; Times: 1
+	Query: "Lophopsittacus mauritianus" ; Times: 1
+	Query: "(Sarcoramphus papa) year &lt;= 1900" ; Times: 1
+	Query: "Pteruthius ripleyi" ; Times: 4
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Lepidosiren" ; Times: 3
+	Query: "tetraogallus caspius" ; Times: 4
+	Query: "genus:nothoprocta family:tinamidae order:tinamiformes class:aves hastissue:1" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 2
+	Query: "Camptorhynchus labradorius" ; Times: 4
+	Query: "terpsiphone incei" ; Times: 1
+	Query: "vntype:specimen genus:Haplospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "crocodylus Borneo" ; Times: 3
+	Query: "specificepithet:afra genus:Nectophryne" ; Times: 2
+	Query: "vntype:specimen genus:SIcalis class:Aves country:&#34;Brazil&#34; institutioncode:UMZC" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 2
+	Query: "vntype:specimen specificepithet:columbiana genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Humblotia flavirostris" ; Times: 5
+	Query: "Necropsittacus rodericanus" ; Times: 2
+	Query: "Tachybaptus novaehollandiae" ; Times: 1
+	Query: "melanerpes portoricensis" ; Times: 13
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 2
+	Query: "genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Leucopeza semperi" ; Times: 1
+	Query: "Pionopsitta pyrilia" ; Times: 1
+	Query: "specificepithet:portoricensis genus:melanerpes" ; Times: 4
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "Ramphocinclus brachyurus" ; Times: 1
+	Query: "vntype:specimen specificepithet:corythaix genus:Tauraco country:&#34;South Africa&#34;" ; Times: 1
+	Query: "specificepithet:cristatus genus:Pavo hastissue:1" ; Times: 1
+	Query: "Prosopeia personata" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 2
+	Query: "catalognumber:71812" ; Times: 1
+	Query: "catalognumber:71814" ; Times: 1
+	Query: "pseudoscops grammicus" ; Times: 6
+	Query: "Carpodectes nitidus" ; Times: 1
+	Query: "continent:north america recordedby:anderson year &gt;= 1850 year &lt;= 1900" ; Times: 3
+	Query: "Balaeniceps rex" ; Times: 2
+	Query: "Cutia nipalensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:luteola genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:capense genus:Daption hastissue:1" ; Times: 1
+	Query: "Ramphocoris clot-bey" ; Times: 1
+	Query: "vntype:specimen genus:Conirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "Tachornis phoenicobia" ; Times: 2
+	Query: "Anser albifrons gambelli" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 8
+	Query: "Phodilus badius" ; Times: 1
+	Query: "Feline" ; Times: 1
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "Mohoua ochrocephala skin" ; Times: 1
+	Query: "terpsiphone paradisi incei" ; Times: 1
+	Query: "catharopeza bishopi" ; Times: 1
+	Query: "Campethera maculosa" ; Times: 1
+	Query: "genus:Ichthyophis specificepithet:kohtaoensis" ; Times: 1
+	Query: "Augastes scutatus" ; Times: 3
+	Query: "Lophostrix stricklandi" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "fregilupus varius" ; Times: 1
+	Query: "Metabolus rugensis" ; Times: 2
+	Query: "Araneidae" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 3
+	Query: "Aphanapteryx bonasia" ; Times: 1
+	Query: "Picus mentalis" ; Times: 2
+	Query: "umzc turnagra capensis" ; Times: 1
+	Query: "genus:Selenocosmia" ; Times: 1
+	Query: "umzc" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 6
+	Query: "class:FISH" ; Times: 1
+	Query: "Megadyptes antipodes" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "Eulampis vntype:specimen sex:female preparations:skin" ; Times: 1
+	Query: "Turnagra capensis" ; Times: 1
+	Query: "Aphanapteryx leguati" ; Times: 1
+	Query: "class:Fish" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Eulampis vntype:specimen sex:female" ; Times: 1
+	Query: "xenicus longipes" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "genus:Pachyptila hastissue:1" ; Times: 1
+	Query: "Necropsar rodericanus" ; Times: 1
+	Query: "Alcedo meninting" ; Times: 2
+	Query: "specificepithet:columbiana genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:palmatus" ; Times: 2
+	Query: "genus:Procellaria hastissue:1" ; Times: 1
+	Query: "spinipes" ; Times: 2
+	Query: "claravis godefrida" ; Times: 3
+	Query: "raphus cucullatus" ; Times: 1
+	Query: "Coenocorypha" ; Times: 1
+	Query: "Agapornis lilianae" ; Times: 1
+	Query: "specificepithet:capense genus:Glaucidium" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 7
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Pezophaps solitaria" ; Times: 1
+	Query: "Ambystoma altamirani" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 596 download events in this period)
+Total number of records downloaded: 231
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 16
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 11
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-18 ; Times: 2
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-07 ; Times: 4
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "genus:Pachyptila hastissue:1" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "Ophiodes striatus" ; Times: 1
+	Query: "genus:Procellaria hastissue:1" ; Times: 1
+	Query: "spinipes" ; Times: 3
+	Query: "genus:Condylura" ; Times: 2
+	Query: "vntype:specimen genus:phyllotis family:Cricetidae" ; Times: 1
+	Query: "genus:Calonectris hastissue:1" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "phyllotis darwini" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "specificepithet:capense genus:Daption hastissue:1" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "continent:africa preparations:eggs" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "manis pentadactyla" ; Times: 1
+
+
+End of report.
