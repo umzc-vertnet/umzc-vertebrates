@@ -1,0 +1,268 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 163
+Number of records retrieved in searches: 758
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 23
+	Country: Australia ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 5
+	Country: Nepal ; Times: 5
+	Country: India ; Times: 11
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Germany ; Times: 12
+	Country: United Kingdom ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 69
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 9
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 3
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-20 ; Times: 9
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-29 ; Times: 6
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-14 ; Times: 4
+	Date: 2020-05-15 ; Times: 11
+	Date: 2020-05-16 ; Times: 7
+	Date: 2020-05-17 ; Times: 1
+	Date: 2020-05-30 ; Times: 7
+	Date: 2020-05-31 ; Times: 13
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 4
+	Date: 2020-05-07 ; Times: 24
+	Date: 2020-05-06 ; Times: 12
+	Date: 2020-05-05 ; Times: 3
+	Date: 2020-05-04 ; Times: 5
+	Date: 2020-05-03 ; Times: 4
+	Date: 2020-05-02 ; Times: 2
+	Date: 2020-05-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "36580" ; Times: 1
+	Query: "Eulampis holosericeus" ; Times: 5
+	Query: "34415" ; Times: 1
+	Query: "Chordeiles gundlachii" ; Times: 5
+	Query: "66672" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "larus maculipennis" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "Anomalepididae" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "melursus ursinus" ; Times: 5
+	Query: "vntype:specimen specificepithet:cayana genus:Dacnis class:Aves country:&#34;Brazil&#34; institutioncode:UMZC" ; Times: 2
+	Query: "class:Amphibia country:&#34;Algeria&#34;" ; Times: 1
+	Query: "Icterus laudabilis" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "Anas wyvilliana" ; Times: 1
+	Query: "genus:phaetusa country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cochoa" ; Times: 1
+	Query: "Ursus arctos continent:Europe" ; Times: 2
+	Query: "51940" ; Times: 1
+	Query: "charadrius rubricollis" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "Falco sparverius ws OR wingspan OR wing+span" ; Times: 7
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "genus:chelidoptera country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas sex:male" ; Times: 1
+	Query: "Halcyon pileata India" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 3
+	Query: "Geotrygon caniceps" ; Times: 1
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34; institutioncode:UMZC" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 2
+	Query: "Buteo platypterus Cuba" ; Times: 2
+	Query: "79125" ; Times: 1
+	Query: "specificepithet:squamatus genus:lepidocolaptes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chrysolophus x" ; Times: 1
+	Query: "Halcyon OR Todiramphus Society" ; Times: 2
+	Query: "specificepithet:guttatus genus:xiphorhynchus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "clot bey" ; Times: 2
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:wyvilliana genus:Anas sex:female" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 12
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 8
+	Query: "Charadrius leschenaultii india" ; Times: 1
+	Query: "Sphenodon" ; Times: 7
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "oenanthe xanthoprymna" ; Times: 1
+	Query: "buteo galapagoensis" ; Times: 1
+	Query: "specificepithet:morphoeus genus:Monasa country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pomatorhinus maderaspatensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 4
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 5
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "Pycnonotus priocephalus" ; Times: 1
+	Query: "Xiphocolaptes emigrans" ; Times: 1
+	Query: "typhlops mucruso" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "hemichordata" ; Times: 2
+	Query: "specificepithet:marginatus genus:Pachyramphus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "argent" ; Times: 2
+	Query: "cryptoprocta ferox" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "Lepidodactylus guppyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:luctuosa genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cacomantis passerinus india" ; Times: 1
+	Query: "Megaladapis" ; Times: 1
+	Query: "Sturnus contra" ; Times: 2
+	Query: "specificepithet:regulus genus:Machaeropterus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:platyrostris genus:Dendrocolaptes country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:leucotis genus:Pyrrhura country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Charadrius sanctae-helenae" ; Times: 1
+	Query: "chlorocharis" ; Times: 1
+	Query: "Alcedo hercules" ; Times: 2
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "Pterocles orientalis India" ; Times: 1
+	Query: "Charadrius mongolus india" ; Times: 2
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "amazona rhodocorytha" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricollis genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:schistacea genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Grampus griseus" ; Times: 1
+	Query: "genus:Vultur" ; Times: 2
+	Query: "citharus linguatula" ; Times: 1
+	Query: "Eremophila alpestris Kashmir" ; Times: 2
+	Query: "gypaetus" ; Times: 1
+	Query: "Geotrygon montana martinica" ; Times: 1
+	Query: "aegypius monachus" ; Times: 1
+	Query: "Dimetrodon limbatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 1106 download events in this period)
+Total number of records downloaded: 3805
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 33
+	Country: Australia ; Times: 7
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: Nepal ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 3
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-10 ; Times: 2
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-14 ; Times: 4
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 3
+	Date: 2020-05-30 ; Times: 3
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 9
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-06 ; Times: 12
+	Date: 2020-05-05 ; Times: 4
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "sceloporus gadoviae" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "specificepithet:parma" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Geotrygon caniceps" ; Times: 1
+	Query: "Geotrygon montana martinica" ; Times: 1
+	Query: "contia" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Geotrygon versicolor" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "manacus manacus gutturosus" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "genus:Gulo" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "typhlops mucruso" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "clot bey" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 1
+	Query: "Equatorial Guinea" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "Stegonotus" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+	Query: "Lepidodactylus guppyi" ; Times: 1
+
+
+End of report.
