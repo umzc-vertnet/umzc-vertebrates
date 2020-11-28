@@ -1,0 +1,414 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 326
+Number of records retrieved in searches: 1394
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 31
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Ireland ; Times: 5
+	Country: Cuba ; Times: 2
+	Country: United Arab Emirates ; Times: 3
+	Country: India ; Times: 7
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 18
+	Country: United States ; Times: 102
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 6
+	Country: United Kingdom ; Times: 129
+	Country: Peru ; Times: 4
+	Country: Unknown ; Times: 5
+	Country: Sri Lanka ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 22
+	Date: 2020-08-07 ; Times: 13
+	Date: 2020-08-17 ; Times: 9
+	Date: 2020-08-16 ; Times: 7
+	Date: 2020-08-15 ; Times: 4
+	Date: 2020-08-14 ; Times: 9
+	Date: 2020-08-13 ; Times: 5
+	Date: 2020-08-12 ; Times: 10
+	Date: 2020-08-11 ; Times: 14
+	Date: 2020-08-10 ; Times: 15
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-30 ; Times: 3
+	Date: 2020-08-19 ; Times: 15
+	Date: 2020-08-18 ; Times: 8
+	Date: 2020-08-20 ; Times: 4
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-04 ; Times: 9
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-06 ; Times: 7
+	Date: 2020-08-29 ; Times: 3
+	Date: 2020-08-26 ; Times: 3
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 6
+	Date: 2020-08-25 ; Times: 8
+	Date: 2020-08-23 ; Times: 3
+	Date: 2020-08-09 ; Times: 3
+	Date: 2020-08-21 ; Times: 135
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:violacea genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Hirundo albigularis" ; Times: 1
+	Query: "lophura bulweri#" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "Cercopithecus cephus" ; Times: 1
+	Query: "family:Trochilidae institutioncode:UMZC hastissue:1" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "vntype:specimen genus:Carduelis class:Aves country:&#34;Brazil&#34;" ; Times: 6
+	Query: "Anomalepididae" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 1
+	Query: "Paradisaea rudolphi" ; Times: 1
+	Query: "specificepithet:clarisse genus:Heliangelus" ; Times: 2
+	Query: "os penis" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordida class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 4
+	Query: "Anous tenuirostris" ; Times: 1
+	Query: "genus:Ocreatus country:&#34;Venezuela&#34;" ; Times: 4
+	Query: "Piranga bidentata" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Amazilia" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 1
+	Query: "Anas falcata" ; Times: 1
+	Query: "Psittacula eupatria" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Columba oenas" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophonia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Hypergerus atriceps" ; Times: 1
+	Query: "san bernardino zoo" ; Times: 1
+	Query: "Lalage tricolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:xanthogaster genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 1
+	Query: "Lophopsittacus mauritianus" ; Times: 6
+	Query: "specificepithet:herrani genus:Chalcostigma" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "specificepithet:annularis genus:Tarentola institutioncode:UMZC" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "Heteralocha acutirostris" ; Times: 2
+	Query: "Turdus ruficollis" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Psittacula alexandri" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "Xenicus longipes" ; Times: 1
+	Query: "vntype:specimen genus:chlorophonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wardi UMZC" ; Times: 1
+	Query: "genus:monticola class:aves country:&#34;ethiopia&#34; recordedby:cheesman" ; Times: 1
+	Query: "cherrug genus:Falco hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:chalybea genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "71370" ; Times: 2
+	Query: "71376" ; Times: 1
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "Catreus wallichii" ; Times: 1
+	Query: "specificepithet:chimborazo genus:Oreotrochilus family:Trochilidae" ; Times: 1
+	Query: "Scytalopus argentifrons" ; Times: 1
+	Query: "specificepithet:anguinus genus:Proteus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 1
+	Query: "Arctictis binturong" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Laccadive" ; Times: 4
+	Query: "Hirundo neoxena" ; Times: 1
+	Query: "genus:Augastes" ; Times: 1
+	Query: "Calyptura cristata" ; Times: 1
+	Query: "Hirundo smithii" ; Times: 1
+	Query: "vntype:specimen specificepithet:chalybea genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "caridina multidentata" ; Times: 2
+	Query: "Pionopsitta pileata" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 1
+	Query: "Gracula religiosa" ; Times: 1
+	Query: "Lanius senator badius" ; Times: 1
+	Query: "Apalis flavida" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 5
+	Query: "Petrocephalus simus" ; Times: 1
+	Query: "specificepithet:langsdorffi genus:Discosura" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "vntype:specimen genus:PIRANGA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:giganteus family:gekkonidae" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "Cercopithecus nictitans" ; Times: 1
+	Query: "Phalacrocorax neglectus" ; Times: 1
+	Query: "UMZC-18/Psi/67/g/1" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "Columba palumbus" ; Times: 1
+	Query: "velociraptor" ; Times: 1
+	Query: "Turdus smithi" ; Times: 1
+	Query: "vntype:specimen genus:passerina class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "behnii" ; Times: 1
+	Query: "Anguilla australis" ; Times: 1
+	Query: "Aegithalos glaucogularis" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:xanthogaster genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "specificepithet:bonapartei genus:Coeligena" ; Times: 6
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "specificepithet:scutatus genus:Augastes" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 1
+	Query: "Sprattus sprattus" ; Times: 4
+	Query: "phoenix zoo" ; Times: 1
+	Query: "Phylloscopus griseolus" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "Raphicerus zoo" ; Times: 1
+	Query: "Phylloscopus occipitalis" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Amazilia country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Cisticola fulvicapilla" ; Times: 1
+	Query: "Lophura swinhoii" ; Times: 1
+	Query: "Phalacrocorax magellanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:atrovirens genus:Psarocolius hastissue:1" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "genus:Stephanoxis country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 5
+	Query: "biarmicus genus:Falco hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:chrysopasta genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 5
+	Query: "specificepithet:ruber genus:Phaethornis" ; Times: 1
+	Query: "Minla cyanouroptera" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "Turdus viscivorus bonapartei" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:langsdorffi genus:Discosura country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Spizixos semitorques" ; Times: 1
+	Query: "specificepithet:delalandii genus:Tarentola institutioncode:UMZC" ; Times: 1
+	Query: "Pseudoscops grammicus" ; Times: 1
+	Query: "Accipiter trivirgatus" ; Times: 1
+	Query: "Lepus europaeus" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 4
+	Query: "specificepithet:nigrigenis genus:Agapornis" ; Times: 1
+	Query: "Tachycineta leucopyga" ; Times: 1
+	Query: "specificepithet:atrovirens genus:Psarocolius hastissue:1" ; Times: 2
+	Query: "Turdus plumbeus" ; Times: 1
+	Query: "specificepithet:helianthea genus:Coeligena" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 4
+	Query: "Phylloscopus coronatus" ; Times: 1
+	Query: "scientificname:Micrurus lemniscatus " ; Times: 1
+	Query: "Phalacrocorax capillatus" ; Times: 1
+	Query: "Prinia bairdii" ; Times: 1
+	Query: "Phalacrocorax harrisi" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "vntype:specimen specificepithet:musica genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 2
+	Query: "Saltator similis" ; Times: 1
+	Query: "Papio anubis" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Metabolus rugensis" ; Times: 1
+	Query: "Pseudibis" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "Cercopithecus mona" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "ptilocercus" ; Times: 1
+	Query: "Numenius borealis" ; Times: 2
+	Query: "Phalacrocorax capensis" ; Times: 1
+	Query: "specificepithet:gardineri family:Gekkonidae" ; Times: 1
+	Query: "Octopus vulgaris" ; Times: 1
+	Query: "Callaeas cinerea" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UMZC" ; Times: 1
+	Query: "27/Mus/51/f/6" ; Times: 2
+	Query: "vntype:specimen specificepithet:pectoralis genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "country:&#34;Colombia&#34; Piranga rubra" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "Columba rupestris" ; Times: 1
+	Query: "vntype:specimen specificepithet:decumanus genus:Psarocolius country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "Psalidoprocne pristoptera" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen genus:Piranga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Piranga erythrocephala" ; Times: 1
+	Query: "Turdus albocinctus" ; Times: 1
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "Xenopus calcaratus" ; Times: 1
+	Query: "Hirundo dimidiata" ; Times: 1
+	Query: "Aegithalos concinnus" ; Times: 1
+	Query: "vntype:specimen specificepithet:brissonii class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Illex coindetii" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Aratinga auricapillus" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Lophura ignita" ; Times: 1
+	Query: "Phylloscopus inornatus" ; Times: 1
+	Query: "Buthraupis montana" ; Times: 1
+	Query: "Passer insularis" ; Times: 2
+	Query: "Syrmaticus ellioti" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventris genus:Accipiter" ; Times: 1
+	Query: "Parus monticolus" ; Times: 1
+	Query: "Larus crassirostris" ; Times: 1
+	Query: "Accipiter rufiventris" ; Times: 1
+	Query: "Syrmaticus reevesii" ; Times: 1
+	Query: "vntype:specimen genus:Cypsnagra class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:chlorotica genus:euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Crangon crangon" ; Times: 2
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "specificepithet:macroura genus:Eupetomena country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pleuronectes platessa" ; Times: 2
+	Query: "argiope bruennichi" ; Times: 2
+	Query: "Phalacrocorax fuscicollis" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "gymnoglaux lawrencii" ; Times: 2
+	Query: "Hylobates lar" ; Times: 1
+	Query: "Anas formosa" ; Times: 1
+	Query: "Foulehaio carunculata" ; Times: 2
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "specificepithet:indicator genus:indicator hastissue:1" ; Times: 1
+	Query: "lanius senator badius" ; Times: 1
+	Query: "genus:Goura" ; Times: 2
+	Query: "Fregilupus varius" ; Times: 2
+	Query: "Lophura leucomelanos" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Phyllastrephus icterinus" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "specificepithet:versicolor genus:Amazilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Canis adustus" ; Times: 1
+	Query: "Necropsar rodericanus" ; Times: 2
+	Query: "Gnathonemus longibarbis" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "Lepus timidus" ; Times: 1
+	Query: "Hirundo tahitica" ; Times: 1
+	Query: "Sylvia curruca" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 1
+	Query: "Zosterops atrifrons" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "Phalacrocorax featherstoni" ; Times: 1
+	Query: "Pezophaps solitaria" ; Times: 2
+	Query: "vntype:specimen genus:Caryothraustes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Passer suahelicus" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "Acipenser ruthenus" ; Times: 1
+	Query: "71606" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "Hylobates moloch" ; Times: 1
+	Query: "ploceus benghalensis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 756 download events in this period)
+Total number of records downloaded: 1849
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Arab Emirates ; Times: 3
+	Country: Cuba ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 34
+	Country: Austria ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Sri Lanka ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-17 ; Times: 3
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-13 ; Times: 5
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-03 ; Times: 3
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-29 ; Times: 3
+	Date: 2020-08-08 ; Times: 5
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 6
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "specificepithet:catta genus:Lemur" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "Arctocephalus australis" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "specificepithet:tinctorius genus:Dendrobates" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "turdus plumbeus rubripes" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "class:Aves country:&#34;Zimbabwe&#34; continent:Africa" ; Times: 1
+	Query: "ensifera ensifera South America" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "Lipaugus vociferans" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "oriturus" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "rusticolus genus:Falco hastissue:1" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "specificepithet:impennis genus:pinguinus" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Anilius scytale" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "specificepithet:africanus genus:Phacochoerus" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "biarmicus genus:Falco hastissue:1" ; Times: 1
+	Query: "family:Trochilidae hastissue:1" ; Times: 1
+	Query: "genus:monticola class:aves country:&#34;ethiopia&#34; recordedby:cheesman" ; Times: 1
+	Query: "cherrug genus:Falco hastissue:1" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+	Query: "argiope bruennichi" ; Times: 1
+	Query: "crotalus horridus" ; Times: 2
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
