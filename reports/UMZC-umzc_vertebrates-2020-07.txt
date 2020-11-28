@@ -1,0 +1,305 @@
+Report for Institution Code UMZC, Resource umzc_vertebrates
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 242
+Number of records retrieved in searches: 633
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Canada ; Times: 1
+	Country: Qatar ; Times: 1
+	Country: Unknown ; Times: 25
+	Country: Madagascar ; Times: 5
+	Country: France ; Times: 3
+	Country: Peru ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 2
+	Country: Germany ; Times: 6
+	Country: Spain ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 121
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 5
+	Country: Malaysia ; Times: 16
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 9
+	Date: 2020-07-20 ; Times: 10
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 22
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-02 ; Times: 15
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-23 ; Times: 9
+	Date: 2020-07-29 ; Times: 56
+	Date: 2020-07-18 ; Times: 9
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 9
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 15
+	Date: 2020-07-14 ; Times: 18
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-15 ; Times: 12
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-30 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 1
+	Query: "Attila citriniventris" ; Times: 1
+	Query: "Uratelornis chimaera" ; Times: 1
+	Query: "Actophilornis albinucha" ; Times: 2
+	Query: "chionis minor" ; Times: 2
+	Query: "harpactes fasciatus" ; Times: 1
+	Query: "class:aves country:&#34;ethiopia&#34; recordedby:cheesman" ; Times: 1
+	Query: "paradoxornis flavirostris" ; Times: 7
+	Query: "Acanthaster planci" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "r. j. coles" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "okapia" ; Times: 1
+	Query: "Camptorhynchus labradorius" ; Times: 2
+	Query: "Tupaia tana" ; Times: 1
+	Query: "vntype:specimen specificepithet:hypoxantha genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:pulcherrima country:&#34;philippines&#34;" ; Times: 3
+	Query: "Cryptobranchus alleghaniensis" ; Times: 1
+	Query: "larus Ichthyaetus" ; Times: 2
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "mohoua albicilla" ; Times: 2
+	Query: "larus bulleri" ; Times: 3
+	Query: "Budorcas taxicolor taxicolor" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "Haematopus moquini" ; Times: 2
+	Query: "Bos grunniens" ; Times: 1
+	Query: "Ptilocercus lowii" ; Times: 1
+	Query: "sterna balaenarum" ; Times: 2
+	Query: "81530" ; Times: 1
+	Query: "Accipiter rufitorques" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "vntype:specimen specificepithet:coerulescens genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Todirhamphus OR Todiramphus OR Halcyon humii" ; Times: 1
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 5
+	Query: "ptilocercus lowii" ; Times: 5
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 2
+	Query: "Rhinoptilus cinctus" ; Times: 3
+	Query: "balaenarum" ; Times: 2
+	Query: "46505" ; Times: 1
+	Query: "eurystomus orientalis india" ; Times: 1
+	Query: "specificepithet:meleagrides order:galliformes" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 5
+	Query: "Trichys fasciculata" ; Times: 10
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 1
+	Query: "Glareola ocularis" ; Times: 2
+	Query: "Budorcas taxicolor" ; Times: 1
+	Query: "Audubon year &gt;= 1820 year &lt;= 1850" ; Times: 2
+	Query: "70414" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 3
+	Query: "vntype:specimen specificepithet:minuta genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "rhopodytes viridirostris" ; Times: 1
+	Query: "Pterocles personatus" ; Times: 4
+	Query: "Thalasseus bergii" ; Times: 2
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "genus:okapia class:mammalia" ; Times: 1
+	Query: "specificepithet:gularis order:galliformes" ; Times: 1
+	Query: "Pavo muticus" ; Times: 4
+	Query: "turnix sylvatica india" ; Times: 1
+	Query: "Hyodon" ; Times: 1
+	Query: "campephilus principalis" ; Times: 9
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "vntype:specimen specificepithet:lateralis genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 4
+	Query: "Cittura" ; Times: 1
+	Query: "country:Ecuador scientificname:Alouatta seniculus " ; Times: 2
+	Query: "sterna albistriata" ; Times: 1
+	Query: "specificepithet:glacialis genus:fulmarus preparations:spirit" ; Times: 1
+	Query: "Rynchops flavirostris" ; Times: 6
+	Query: "Timalia pileata" ; Times: 1
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Monarcha Cockerell" ; Times: 1
+	Query: "Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "R. j. coles" ; Times: 1
+	Query: "nothoprocta curvirostris" ; Times: 1
+	Query: "Rhodonessa caryophyllacea" ; Times: 4
+	Query: "cypridae" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "mohoua ochrocephala" ; Times: 2
+	Query: "anthus berthelotii vntype:specimen" ; Times: 1
+	Query: "Vanellus tectus" ; Times: 2
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "Balaeniceps" ; Times: 2
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:THORACICA genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rana catesbiana" ; Times: 1
+	Query: "Sterna lorata" ; Times: 2
+	Query: "Cursorius rufus" ; Times: 2
+	Query: "Clupea harengus" ; Times: 3
+	Query: "Rhinoptilus bitorquatus" ; Times: 1
+	Query: "Sterna saundersi" ; Times: 3
+	Query: "Cursorius temminckii" ; Times: 2
+	Query: "vntype:specimen specificepithet:atricollis genus:saltator class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "vntype:specimen specificepithet:grossus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "circaetus gallicus india" ; Times: 1
+	Query: "hieraaetus pennatus india" ; Times: 1
+	Query: "larus fuliginosus" ; Times: 1
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "Sterna aurantia" ; Times: 1
+	Query: "aquila clanga india" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Glareola lactea" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "Quiscalus brachypterus" ; Times: 1
+	Query: "specificepithet:albogularis order:galliformes" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "genus:machetornis" ; Times: 3
+	Query: "Sterna repressa" ; Times: 3
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "aegithalos concinnus india" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "Acropoma" ; Times: 1
+	Query: "Alopias" ; Times: 2
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Cursorius coromandelicus" ; Times: 2
+	Query: "vntype:specimen genus:Poospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "himantopus novae" ; Times: 2
+	Query: "budorcas taxicolor" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 940 download events in this period)
+Total number of records downloaded: 3180
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 5
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-30 ; Times: 4
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-28 ; Times: 3
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 11
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-10 ; Times: 3
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "specificepithet:douglassii genus:phrynosoma" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:gularis order:galliformes" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "anthus berthelotii vntype:specimen" ; Times: 1
+	Query: "specificepithet:meleagrides order:galliformes" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "estrilda astrild" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "specificepithet:albogularis order:galliformes" ; Times: 1
+	Query: "specificepithet:barbata order:galliformes" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "Pavo muticus" ; Times: 3
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Tupaia belangeri" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "specificepithet:valliceps family:bufonidae" ; Times: 1
+	Query: "Chioglossa" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "family:Dasyuridae (zoo OR captive)" ; Times: 1
+	Query: "budorcas taxicolor" ; Times: 1
+
+
+End of report.
